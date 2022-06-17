@@ -173,7 +173,6 @@ class program
 
 
 
-      Console.WriteLine("test pull");
 
 
     }
