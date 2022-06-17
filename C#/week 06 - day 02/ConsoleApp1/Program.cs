@@ -173,10 +173,7 @@ class program
 
 
 
-        Console.WriteLine("hello git");
-        Console.WriteLine("hello git2");
-        Console.WriteLine("hello git3");
-        Console.WriteLine("hello git4");
+      
 
 
     }
