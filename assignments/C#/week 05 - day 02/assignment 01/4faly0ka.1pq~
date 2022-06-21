@@ -1,0 +1,186 @@
+﻿#region Problem 01
+//Console.WriteLine("Please enter a number");
+//int num = int.Parse(Console.ReadLine());
+//Console.WriteLine($"the number is {num}");
+#endregion
+
+
+#region problem 02
+//Console.WriteLine("Please enter a number");
+//int num = int.Parse(Console.ReadLine());
+
+//if (num % 3 == 0)
+//{
+//    Console.WriteLine("yes");
+//} else {
+//    Console.WriteLine("no");
+//}
+#endregion
+
+
+#region problem 03
+//Console.WriteLine("Please insert the 1st number");
+//int num1 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Please insert the 2nd number");
+//int num2 = int.Parse(Console.ReadLine());
+
+//if(num1 > num2)
+//{
+//    Console.WriteLine($"the 1st '{num1}' is greater than 2nd '{num2}'");
+//}else if(num1 < num2)
+//{
+//    Console.WriteLine($"the 2nd '{num2}' is greater than 1st '{num1}'");
+
+//}
+//else
+//{
+//    Console.WriteLine($"the 1st number '{num1}' equals the 2nd '{num2}'");
+//}
+#endregion
+
+
+#region problem 04
+//Console.WriteLine("Please enter a number");
+//int num = int.Parse(Console.ReadLine());
+
+//if(num < 0)
+//{
+//    Console.WriteLine("negative");
+//}else if(num > 0 )
+//{
+//    Console.WriteLine("positve");
+//}
+//else
+//{
+//    Console.WriteLine("zer0");
+//}
+#endregion
+
+
+#region problem 05
+//Console.WriteLine("Please insert 3 numbers");
+//int num1 = int.Parse(Console.ReadLine());
+//int num2 = int.Parse(Console.ReadLine());
+//int num3 = int.Parse(Console.ReadLine());
+
+//if(num1 > num2 && num1 > num3)
+//{
+//    if(num2 > num3)
+//    {
+//        Console.WriteLine($"max: {num1}\nmin: {num3}");
+//    }
+//    else
+//    {
+//         Console.WriteLine($"max: {num1}\nmin: {num2}");
+//    }
+
+//}
+//else if (num2 > num1 && num2 > num3)
+//{
+//    if (num1 > num3)
+//    {
+//        Console.WriteLine($"max: {num2}\nmin: {num3}");
+//    }
+//    else
+//    {
+//        Console.WriteLine($"max: {num2}\nmin: {num1}");
+//    }
+
+//}
+//if (num3 > num1 && num3 > num2)
+//{
+//    if (num2 > num1)
+//    {
+//        Console.WriteLine($"max: {num3}\nmin: {num1}");
+//    }
+//    else
+//    {
+//        Console.WriteLine($"max: {num3}\nmin: {num2}");
+//    }
+
+//}
+//else
+//{
+//    Console.WriteLine("Please insert different numbers");
+//}
+#endregion
+
+
+#region problem 06 
+//Console.WriteLine("Please insert a number");
+//int num = int.Parse(Console.ReadLine());
+
+//if (num % 2 == 0)
+//{
+//    Console.WriteLine("even");
+//}
+//else
+//{
+//    Console.WriteLine("odd");
+//}
+#endregion
+
+
+#region problem 07
+//Console.WriteLine("Please insert a Character");
+//char c = char.Parse(Console.ReadLine());
+
+//if(c == 'a' || c == 'e'|| c == 'i' || c == 'o' || c == 'u')
+//{
+//    Console.WriteLine("vowel");
+//}
+//else
+//{
+//    Console.WriteLine("constant");
+//}
+#endregion
+
+
+#region problem 08
+
+#endregion
+
+
+#region problem 09
+//Console.WriteLine("please enter a number");
+//int num = int.Parse(Console.ReadLine());
+
+//for (int i = 1; i <= 12; i++)
+//{
+//    Console.WriteLine($"{num * i}");
+//}
+#endregion
+
+
+#region problem 10
+//Console.WriteLine("please enter a number");
+//int num = int.Parse(Console.ReadLine());
+
+//for (int i = 2; i < num; i++)
+//{
+//    if(i % 2 == 0)
+//    {
+//        Console.WriteLine(i);
+//    }
+//    else
+//    {
+//        continue;
+//    }
+//}
+#endregion
+
+
+#region problem 11
+Console.WriteLine("please enter the base number");
+int baseNum = int.Parse(Console.ReadLine());
+
+Console.WriteLine("please enter the power number");
+int powerNum = int.Parse(Console.ReadLine());
+
+for (int i = 0; i < powerNum; i++)
+{
+    baseNum
+
+}
+#endregion
