@@ -1,0 +1,15 @@
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\Indexer.csproj.AssemblyReference.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfoInputs.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfo.cs
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\Indexer.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\bin\Debug\net6.0\Indexer.exe
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\bin\Debug\net6.0\Indexer.deps.json
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\bin\Debug\net6.0\Indexer.runtimeconfig.json
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\bin\Debug\net6.0\Indexer.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\bin\Debug\net6.0\Indexer.pdb
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\Indexer.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\refint\Indexer.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\Indexer.pdb
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\Indexer.genruntimeconfig.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Indexer\obj\Debug\net6.0\ref\Indexer.dll

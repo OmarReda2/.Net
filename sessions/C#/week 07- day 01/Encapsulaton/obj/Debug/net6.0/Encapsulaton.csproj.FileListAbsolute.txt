@@ -1,0 +1,15 @@
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\Encapsulaton.csproj.AssemblyReference.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\Encapsulaton.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\Encapsulaton.AssemblyInfoInputs.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\Encapsulaton.AssemblyInfo.cs
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\Encapsulaton.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\bin\Debug\net6.0\Encapsulaton.exe
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\bin\Debug\net6.0\Encapsulaton.deps.json
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\bin\Debug\net6.0\Encapsulaton.runtimeconfig.json
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\bin\Debug\net6.0\Encapsulaton.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\bin\Debug\net6.0\Encapsulaton.pdb
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\Encapsulaton.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\refint\Encapsulaton.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\Encapsulaton.pdb
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\Encapsulaton.genruntimeconfig.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07- day 01\Encapsulaton\obj\Debug\net6.0\ref\Encapsulaton.dll
