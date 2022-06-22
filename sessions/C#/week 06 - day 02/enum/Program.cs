@@ -28,6 +28,11 @@ namespace w6___s2___p7
     }
 
 
+
+
+
+
+
     internal class Program
     {
         static void Main(string[] args)
@@ -36,6 +41,11 @@ namespace w6___s2___p7
             //Grades G01 = Grades.D;
             //G01 = (Grades)3;
             #endregion
+
+
+
+
+
 
             //Permission P01 = Permission.Delete;
             //P01 ^= Permission.Excute;
