@@ -1,0 +1,15 @@
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\bin\Debug\net6.0\1_Polymorphism.exe
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\bin\Debug\net6.0\1_Polymorphism.deps.json
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\bin\Debug\net6.0\1_Polymorphism.runtimeconfig.json
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\bin\Debug\net6.0\1_Polymorphism.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\bin\Debug\net6.0\1_Polymorphism.pdb
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\1_Polymorphism.csproj.AssemblyReference.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\1_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\1_Polymorphism.AssemblyInfoInputs.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\1_Polymorphism.AssemblyInfo.cs
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\1_Polymorphism.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\1_Polymorphism.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\refint\1_Polymorphism.dll
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\1_Polymorphism.pdb
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\1_Polymorphism.genruntimeconfig.cache
+E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 07 -day 02\1_Polymorphism\obj\Debug\net6.0\ref\1_Polymorphism.dll

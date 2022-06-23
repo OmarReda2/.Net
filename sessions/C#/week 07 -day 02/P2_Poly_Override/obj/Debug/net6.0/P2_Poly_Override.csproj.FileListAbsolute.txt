@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\P2_Poly_Override.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\P2_Poly_Override.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\P2_Poly_Override.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\P2_Poly_Override.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\P2_Poly_Override.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\bin\Debug\net6.0\P2_Poly_Override.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\bin\Debug\net6.0\P2_Poly_Override.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\bin\Debug\net6.0\P2_Poly_Override.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\bin\Debug\net6.0\P2_Poly_Override.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\bin\Debug\net6.0\P2_Poly_Override.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\P2_Poly_Override.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\refint\P2_Poly_Override.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\P2_Poly_Override.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\P2_Poly_Override.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P2_Poly_Override\obj\Debug\net6.0\ref\P2_Poly_Override.dll
