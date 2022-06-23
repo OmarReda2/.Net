@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\bin\Debug\net6.0\builtIn_interface.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\bin\Debug\net6.0\builtIn_interface.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\bin\Debug\net6.0\builtIn_interface.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\bin\Debug\net6.0\builtIn_interface.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\bin\Debug\net6.0\builtIn_interface.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\builtIn_interface.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\builtIn_interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\builtIn_interface.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\builtIn_interface.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\builtIn_interface.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\builtIn_interface.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\refint\builtIn_interface.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\builtIn_interface.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\builtIn_interface.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 07 -day 02\P04_Icloneable\obj\Debug\net6.0\ref\builtIn_interface.dll
