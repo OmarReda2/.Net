@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\bin\Debug\net6.0\P03_Collections.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\bin\Debug\net6.0\P03_Collections.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\bin\Debug\net6.0\P03_Collections.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\bin\Debug\net6.0\P03_Collections.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\bin\Debug\net6.0\P03_Collections.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\P03_Collections.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\P03_Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\P03_Collections.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\P03_Collections.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\P03_Collections.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\P03_Collections.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\refint\P03_Collections.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\P03_Collections.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\P03_Collections.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P03_Collections\obj\Debug\net6.0\ref\P03_Collections.dll
