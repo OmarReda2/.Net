@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P01_Exc_Handling/1.0.0": {
+        "runtime": {
+          "P01_Exc_Handling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P01_Exc_Handling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
