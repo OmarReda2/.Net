@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\bin\Debug\net6.0\P03_Delegate_Ex03.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\bin\Debug\net6.0\P03_Delegate_Ex03.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\bin\Debug\net6.0\P03_Delegate_Ex03.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\bin\Debug\net6.0\P03_Delegate_Ex03.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\bin\Debug\net6.0\P03_Delegate_Ex03.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\P03_Delegate_Ex03.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\P03_Delegate_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\P03_Delegate_Ex03.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\P03_Delegate_Ex03.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\P03_Delegate_Ex03.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\P03_Delegate_Ex03.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\refint\P03_Delegate_Ex03.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\P03_Delegate_Ex03.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\P03_Delegate_Ex03.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P03_Delegate_Ex03\obj\Debug\net6.0\ref\P03_Delegate_Ex03.dll
