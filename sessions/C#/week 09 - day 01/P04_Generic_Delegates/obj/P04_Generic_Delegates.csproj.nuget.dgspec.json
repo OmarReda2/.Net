@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P02_Delegate_Ex02\\P02_Delegate_Ex02.csproj": {}
+    "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P04_Generic_Delegates\\P04_Generic_Delegates.csproj": {}
   },
   "projects": {
-    "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P02_Delegate_Ex02\\P02_Delegate_Ex02.csproj": {
+    "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P04_Generic_Delegates\\P04_Generic_Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P02_Delegate_Ex02\\P02_Delegate_Ex02.csproj",
-        "projectName": "P02_Delegate_Ex02",
-        "projectPath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P02_Delegate_Ex02\\P02_Delegate_Ex02.csproj",
+        "projectUniqueName": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P04_Generic_Delegates\\P04_Generic_Delegates.csproj",
+        "projectName": "P04_Generic_Delegates",
+        "projectPath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P04_Generic_Delegates\\P04_Generic_Delegates.csproj",
         "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-        "outputPath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P02_Delegate_Ex02\\obj\\",
+        "outputPath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\C#\\week 09 - day 01\\P04_Generic_Delegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
