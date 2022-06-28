@@ -47,8 +47,8 @@ namespace P04_Generic_Delegates
     class CompareFunctions
     {
         public static bool CompareLength(string str1, string str2) { return str1?.Length > str2?.Length; }
+        public static bool CompareLength2(string name) { return name?.Length > 3; }
         public static bool CompareGreaterThan(int x, int y) { return x > y; }
-
         public static bool CompareLessThan(int x, int y) { return x < y; }
 
     }
