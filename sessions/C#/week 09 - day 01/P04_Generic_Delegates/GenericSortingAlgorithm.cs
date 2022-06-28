@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 
+namespace P04_Generic_Delegates
 {
     public delegate TResult GenericCompareFunDelegate<T1, T2, TResult>(T1 x, T2 y);
     public class GenericSortingAlgorithm<T>
