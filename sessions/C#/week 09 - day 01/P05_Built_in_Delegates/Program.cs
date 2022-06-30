@@ -6,7 +6,7 @@ namespace P05_Built_in_Delegates
     {
         public static void Main(string[] args)
         {
-
+            Predicate
         }
     }
 }
