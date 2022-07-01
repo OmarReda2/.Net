@@ -74,3 +74,35 @@ where 1 = 2
 
 insert into NewTable
 select * from HR.Student
+
+
+------------ User Defined Function ------------
+-- 1. Scalar Function (Return one value)
+
+create function GetStudentNameById(@StudentId int)
+--alter function GetStudentNameById(@StudentId int) => edit func
+returns varchar(30)
+	begin
+		declare @StudentName varchar(30)
+		select @StudentName = FName
+		from HR.Student
+		where ID = @StudentId
+		return @StudentName
+	end
+
+	select dbo.GetStudentNameById(2)
+
+
+	create function GetInstrctNameByDeptName(@DepartementName varchar(50))
+	returns varchar(50)
+		begin
+			declare @InstrucName varchar(50)
+			select @InstrucName = i.name
+			from HR.Instructor i join Sales.Departement d
+			on i.ID = d.inst_ID and d.name = @DepartementName
+			return @InstrucName
+		end
+
+		select dbo.GetInstrctNameByDeptName('ml')
+-- 2. Inline Table Function (Return Table)
+-- 3. Multi-Statement Table Function (Return Table with Logic)
