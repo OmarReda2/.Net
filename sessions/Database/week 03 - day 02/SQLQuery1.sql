@@ -20,3 +20,25 @@ where FullName = 'Omar Reda'
 -- distinct
 -- order by
 -- top
+
+
+
+
+
+-------- Schema --------
+select *
+from Route.dbo.Course -- dbo => default Schema
+
+create Schema HR
+alter schema HR transfer Student
+alter schema HR transfer Instructor
+
+select FName + ' ' + LName as FullName
+from HR.Student
+order by FullName
+
+create schema Sales
+alter schema Sales transfer Departement
+
+select *
+from Sales.Departement
