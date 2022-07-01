@@ -28,7 +28,7 @@ from Student
 select FName, IsNull(LName, FName)
 from Student
 
--- 2. Caolesce
+-- 2. Coalesce
 select FName, Coalesce(FName, LName, Address,'No Data Found')
 from Student
 
@@ -125,8 +125,7 @@ on D.ID = S.dept_id
 select D.Name
 from Departement D
 where D.ID in (select S.dept_id
-			   from Student S
-			   where S.dept_id is not null) 
+			   from Student S) 
 
 -- SubQuery with DML
 -- Delete
@@ -187,3 +186,51 @@ from Student
 select top(3)*
 from Student
 order by newid()
+
+
+
+
+
+
+-------- Ranking Functions --------
+-- 1. Row Number
+select FName, Age, row_number() over(order by Age desc) [Rank]
+from Student
+where Age is not null
+
+-- 2. Dense Rank
+select Fname ,Age, dense_rank() over(order by Age desc) [Rank]
+from Student
+where Age is not null
+
+-- 3. Rank
+select FName, Age, rank() over(order by Age desc)
+from Student
+where Age is not null
+
+-- Get the 2 oldest std in std table
+select *
+from (select FName, Age, row_number() over(order by Age desc) as ranks
+	  from Student) [Rank]
+where ranks <= 2
+
+-- Get the youngest std in each dept
+select FName, Age, dept_id, row_number() over(partition by dept_id order by Age ) 
+from Student 
+where FName is not null and Age is not null and dept_id is not null 
+
+select *
+from (select FName, Age, dept_id, row_number() over(partition by dept_id order by Age ) as ranks
+	  from Student) [Rank]
+where FName is not null and Age is not null and dept_id is not null and ranks = 1
+
+
+-- 4. NTile
+select *
+from (select *, NTile(2) over(order by Salary) as Gr
+	  from Instructor) [Rank]
+
+select *
+from (select *, NTile(2) over(order by Salary) as Gr
+	  from Instructor) [Rank]
+where Gr = 2
