@@ -95,3 +95,18 @@ from student
 select substring(fname, 1, 3)
 from student
 
+
+
+
+
+-------- String Functions --------
+select power(Age, 2)
+from Student
+
+select abs(-6)
+
+
+
+
+
+
