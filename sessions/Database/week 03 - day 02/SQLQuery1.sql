@@ -54,3 +54,23 @@ select ID, Fname  from HR.Student
 select ID, name  from HR.Instructor
 
 
+
+
+----------------------
+-- DDL [Create, Alter, Drop, Select Into]
+select * into Student
+from HR.Student
+
+select Address, Fname, Age  into AlexStudent
+from HR.Student
+where Address = 'alex'
+
+select * from AlexStudent
+
+select * into NewTable
+from HR.Student
+where 1 = 2
+
+
+insert into NewTable
+select * from HR.Student
