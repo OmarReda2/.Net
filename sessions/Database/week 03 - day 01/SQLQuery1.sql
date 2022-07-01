@@ -100,10 +100,9 @@ from student
 
 
 -------- String Functions --------
-select power(Age, 2)
-from Student
-
-select abs(-6)
+select db_name()
+select suser_name()
+select @@SERVERNAME
 
 
 
