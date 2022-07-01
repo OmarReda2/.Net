@@ -42,3 +42,15 @@ alter schema Sales transfer Departement
 
 select *
 from Sales.Departement
+
+
+----------------------
+-- Union Family (Union, Union All, Intersect, Except)
+select ID, Fname  from HR.Student
+-- union 
+-- union all 
+-- intersect 
+-- except
+select ID, name  from HR.Instructor
+
+
