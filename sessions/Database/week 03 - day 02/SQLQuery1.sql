@@ -104,5 +104,21 @@ returns varchar(30)
 		end
 
 		select dbo.GetInstrctNameByDeptName('ml')
+
 -- 2. Inline Table Function (Return Table)
+
+create function GetInstructorsByDepartementId(@DepartementId int)
+--alter function GetInstructorsByDepartementId(@DepartementId int)
+returns table
+as 
+return (
+		select name, Salary * 12 as AnnualSalary
+		from HR.Instructor
+		where dept_ID = @DepartementId
+)
+
+select * 
+from dbo.GetInstructorsByDepartementId(30)
+where AnnualSalary > 1000
+
 -- 3. Multi-Statement Table Function (Return Table with Logic)
