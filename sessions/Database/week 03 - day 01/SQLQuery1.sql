@@ -71,9 +71,27 @@ select format(getdate(), 'dddd', 'ar')
 
 
 
+
+
 -------- DateTime Functions --------
 select getdate()
 select day(getdate())
 select eomonth(getdate())
 select eomonth('1/1/2005')
 select format(eomonth(getdate()), 'dddd')
+
+
+
+
+
+
+-------- String Functions --------
+select lower(FName), upper(lname)
+from student
+
+select fname ,len(fname)
+from student
+
+select substring(fname, 1, 3)
+from student
+
