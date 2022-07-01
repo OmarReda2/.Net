@@ -134,3 +134,56 @@ delete from StudentCourse
 where std_ID in (select ID
 				 from Student
 				 where Address = 'Cairo')
+
+
+
+
+
+
+-------- Top --------
+select *
+from Student
+
+select Top(3)*
+from Student
+
+select Top(3)ID
+from Student
+
+select Top(3)*
+from Student
+order by ID desc
+
+
+
+select Max(Salary)
+from Instructor
+
+select Max(salary)
+from Instructor
+where salary not in (select Max(salary) from Instructor)
+
+select Max(salary)
+from Instructor
+where salary <> (select Max(salary) from Instructor)
+
+
+
+select top(2)Salary
+from Instructor
+order by salary desc
+
+-- Top with ties
+select top(5) with ties Age
+from Student
+order by Age desc
+
+-- Random Select
+select newid()
+
+select FName, newid()
+from Student
+
+select top(3)*
+from Student
+order by newid()
