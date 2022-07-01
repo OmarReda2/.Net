@@ -108,4 +108,29 @@ select @@SERVERNAME
 
 
 
+-------- SubQuery --------
+select * 
+from Student
+where Age > (select Avg(Age) from Student)
 
+
+select ID, (select Count(ID) from student)
+from student
+
+-- SubQuery VS Join
+select distinct D.Name
+from Departement D inner join Student S
+on D.ID = S.dept_id
+
+select D.Name
+from Departement D
+where D.ID in (select S.dept_id
+			   from Student S
+			   where S.dept_id is not null) 
+
+-- SubQuery with DML
+-- Delete
+delete from StudentCourse
+where std_ID in (select ID
+				 from Student
+				 where Address = 'Cairo')
