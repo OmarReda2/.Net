@@ -141,3 +141,22 @@ as
 	end
 
 	select * from GetStudentBasedOnFormat('fullname')
+
+
+
+-------------- Views --------------
+-- 1. Standard View
+create view Vstudent
+as
+	select * from HR.Student
+
+select * from VStudent
+
+
+create view VAlex(Id, StudentName, StudentAddress)
+as
+	select ID, FName, Address
+	from HR.Student
+	where Address = 'alex'
+
+select * from VAlex
