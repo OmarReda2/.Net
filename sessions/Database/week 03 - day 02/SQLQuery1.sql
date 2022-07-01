@@ -122,3 +122,22 @@ from dbo.GetInstructorsByDepartementId(30)
 where AnnualSalary > 1000
 
 -- 3. Multi-Statement Table Function (Return Table with Logic)
+create function GetStudentBasedOnFormat(@format varchar(20))
+returns @t table (id int, StudentName varchar(20))
+as
+	begin
+		if @format = 'first'
+			insert into @t
+			select ID, FName from HR.Student
+
+		else if @format = 'last'
+			insert into @t
+			select ID, LName from HR.Student
+
+		if @format = 'fullname'
+			insert into @t
+			select ID, FName + ' ' LName from HR.Student
+		return
+	end
+
+	select * from GetStudentBasedOnFormat('fullname')
