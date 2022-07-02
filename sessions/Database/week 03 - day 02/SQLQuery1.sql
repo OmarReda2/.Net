@@ -160,3 +160,44 @@ as
 	where Address = 'alex'
 
 select * from VAlex
+
+
+create view VCairo(Id, StudentName, StudentAddress)
+as
+	select ID, FName, Address
+	from HR.Student
+	where Address = 'cairo'
+
+select * from VCairo
+
+-- 2. Partitioned View
+create view VAllStudent
+as
+	select * from VCairo
+	union
+	select * from VAlex
+
+select * from VAllStudent
+
+alter schema HR transfer VAllStudent
+
+
+alter view VstudentAndDepartements(SID, SName, DID, DName)
+with encryption
+as
+	select s.ID, s.FName, d.ID, d.Name
+	from HR.Student s join Sales.Departement d
+	on d.ID = s.dept_id
+
+select * from VstudentAndDepartements
+
+sp_helptext 'VstudentAndDepartements'
+
+create view VCairoAndAlexStdGrade
+with encryption
+as
+	select VS.StudentName, C.name, SC.grade
+	from HR.VAllStudent VS, StudentCourse SC, Course C
+	where C.ID = SC.crs_ID and VS.Id = SC.std_ID
+
+select * from VCairoAndAlexStdGrade
