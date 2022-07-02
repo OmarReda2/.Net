@@ -152,3 +152,84 @@ as
 declare @data int = 1, @name varchar(20)
 execute setValues @data output, @name output
 select @data, @name
+
+
+
+
+
+
+
+
+------------- Trigger -------------
+create trigger AFterInsertStd
+on HR.Student
+after insert
+as
+	select 'Welcom to ITI'
+
+insert into HR.Student (ID, FName, Address) values(21, 'Ali', 'Tanta')
+
+
+
+
+
+create trigger AfterUpdateInfo
+on HR.Student
+after update
+as	
+	select getdate(), suser_name()
+
+update HR.Student
+	   set FName = 'Alaa'
+	   where ID = 21
+
+
+
+
+
+create trigger insteadOfDeleteStudent
+on HR.Student
+instead of Delete
+as
+	select 'Deletion is not allowed for User => ' + suser_name()
+
+delete from HR.Student
+where ID = 21
+
+
+
+
+
+
+
+alter table HR.Student disable trigger insteadOfDeleteStudent
+
+alter table HR.Student enable trigger insteadOfDeleteStudent
+
+drop trigger insteadOfDeleteStudent
+
+create trigger PreventOpertionOnStudent
+on HR.Student
+instead of delete, update, insert
+as
+	select 'Opertion is not allowed for User => ' + suser_name()
+
+delete from HR.Student
+where ID = 21
+
+update HR.Student
+	   set FName = 'Alaa'
+	   where ID = 21
+
+
+
+
+
+
+alter trigger HR.PreventOpertionOnStudent
+on HR.Student
+instead of delete, update, insert
+as
+	select 'Opertion is not allowed for User => ' + suser_name()
+
+alter schema dbo transfer HR.Student
