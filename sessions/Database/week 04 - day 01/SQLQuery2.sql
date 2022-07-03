@@ -361,3 +361,45 @@ begin transaction
 rollback transaction t1
 
 select * from Child
+
+
+
+
+
+
+
+
+
+------------ Index ------------
+-- 1. Clustered Index
+create clustered index myIndex
+on Course(name)
+
+-- 2. Non Clustered Index
+create nonclustered index myIndex
+on Course(name)
+
+create nonclustered index myIndex2
+on Course(iD)
+
+
+
+
+create table test
+(
+	x int primary key,
+	y int unique,
+	z int unique
+)
+
+alter table test
+add constraint c unique(y)
+
+create nonclustered index index2
+on test(y)
+
+
+--
+-- open sql server profiler => new trace => type query => let the trace run for a while (user) => save the trace
+-- => open tuning advisor => select the trace file => select the db
+select * from HR.Student
