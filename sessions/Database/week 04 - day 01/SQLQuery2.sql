@@ -300,3 +300,64 @@ as
 
 delete from HR.Student
 where ID = 232
+
+
+
+
+
+
+
+------------- Transaction -------------
+create table Parent
+(
+	PID int Primary key
+)
+
+create table Child
+(
+	CID int Primary key,
+	PID int references Parent(PID)
+)
+
+insert into Parent values(1)
+insert into Parent values(2)
+insert into Parent values(3)
+insert into Parent values(4)
+
+begin transaction
+	insert into Child values(1,1)
+	insert into Child values(2,3)
+	insert into Child values(3,2)
+	insert into Child values(4,4)
+commit transaction
+
+begin transaction
+	insert into Child values(5,2)
+	insert into Child values(2,1) -- error
+commit transaction
+
+begin transaction
+	insert into Child values(7,3)
+	insert into Child values(2,1) -- error
+rollback transaction
+
+begin try
+	begin transaction
+		insert into Child values(8,2)
+		insert into Child values(9,2)
+		insert into Child values(3,1) -- error
+	commit transaction
+end try
+begin catch
+	rollback transaction
+end catch
+
+begin transaction
+	insert into Child values(12,3)
+	insert into Child values(11,1) 
+	save tran t1
+	insert into Child values(3,1) -- error
+	insert into Child values(17,1) 
+rollback transaction t1
+
+select * from Child
