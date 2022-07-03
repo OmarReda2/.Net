@@ -233,3 +233,70 @@ as
 	select 'Opertion is not allowed for User => ' + suser_name()
 
 alter schema dbo transfer HR.Student
+
+
+
+
+
+
+
+
+-- Trigger Part 02
+create trigger UpdateCourse
+on Course
+after update
+as
+	select * from inserted
+	select * from deleted
+
+update Course
+	   set name = 'crs11'
+	   where ID = 111
+
+
+
+
+
+
+create trigger PreventDeletingCourse
+on Course
+instead of delete
+as
+	select 'You tried to delete course => ' + (select name from deleted) 
+
+delete from Course
+where ID = 111
+
+
+
+
+
+
+create trigger deleteStudent
+on HR.Student
+after delete
+as
+	if format(getdate(), 'dddd') = 'Sunday'
+	insert into Student
+	select * from deleted
+
+delete from HR.Student
+where ID = 21
+
+
+
+
+
+
+
+
+alter trigger HR.InsteadOfDeleteStd
+on HR.Student
+instead of delete
+as
+	if format(getdate(), 'dddd') != 'Tuesday'
+	delete from HR.Student
+	where ID in (select ID from HR.Student)
+
+delete from HR.Student
+where ID = 232
