@@ -46,5 +46,6 @@ namespace App1.Entities
 
         [DataType(DataType.EmailAddress)]
         public string EmailAddress{ get; set; }
+        public virtual Departement Departement{ get; set; }
     }
 }

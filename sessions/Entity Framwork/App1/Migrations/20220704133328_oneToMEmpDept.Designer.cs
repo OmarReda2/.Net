@@ -4,14 +4,16 @@ using App1.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace App1.Migrations
 {
     [DbContext(typeof(EnterpriseDbContext))]
-    partial class EnterpriseDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220704133328_oneToMEmpDept")]
+    partial class oneToMEmpDept
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -34,7 +36,7 @@ namespace App1.Migrations
                     b.Property<DateTime>("YearOfCreation")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2022, 7, 4, 17, 15, 49, 851, DateTimeKind.Local).AddTicks(275));
+                        .HasDefaultValue(new DateTime(2022, 7, 4, 15, 33, 28, 12, DateTimeKind.Local).AddTicks(9933));
 
                     b.HasKey("DeptId");
 
@@ -71,25 +73,6 @@ namespace App1.Migrations
                     b.HasIndex("DepartementDeptId");
 
                     b.ToTable("Employee");
-                });
-
-            modelBuilder.Entity("App1.Entities.Student", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("Age")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Name")
-                        .HasMaxLength(40)
-                        .HasColumnType("int");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Students");
                 });
 
             modelBuilder.Entity("App1.Entities.Employee", b =>

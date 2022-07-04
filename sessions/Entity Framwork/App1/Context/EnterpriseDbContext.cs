@@ -22,7 +22,7 @@ namespace App1.Context
 
 
 
-        // // Fluent Api
+        // // Mapping with Fluent Api
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Departement>().HasKey(D => D.DeptId);
@@ -36,6 +36,16 @@ namespace App1.Context
                 .Property(D => D.YearOfCreation)
                 .HasDefaultValue(DateTime.Now);
 
+
+
+            // // One To Many Mapping With Fluent Api
+            //modelBuilder.Entity<Departement>()
+            //    .HasMany(D => D.Employees)
+            //    .WithOne(E => E.Departement);
+
+            //modelBuilder.Entity<Employee>()
+            //    .HasOne(E => E.Departement)
+            //    .WithMany(D => D.Employees);
 
             // modelBuilder.Entity<Departement>(EB =>
             //{
@@ -51,16 +61,18 @@ namespace App1.Context
 
 
 
-            modelBuilder.ApplyConfiguration(new DepartementConfigration());
 
+            // // Mapping with Configration Class
+            modelBuilder.ApplyConfiguration(new DepartementConfigration());
         }
 
 
 
 
 
-
+        // // Mapping With Convention
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Student> Students { get; set; }
     }
 
 }
