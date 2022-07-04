@@ -4,14 +4,16 @@ using App1.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace App1.Migrations
 {
     [DbContext(typeof(EnterpriseDbContext))]
-    partial class EnterpriseDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220704154255_MtoMRelation")]
+    partial class MtoMRelation
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -50,7 +52,7 @@ namespace App1.Migrations
                     b.Property<DateTime>("YearOfCreation")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2022, 7, 4, 17, 57, 34, 165, DateTimeKind.Local).AddTicks(2640));
+                        .HasDefaultValue(new DateTime(2022, 7, 4, 17, 42, 54, 878, DateTimeKind.Local).AddTicks(5246));
 
                     b.HasKey("DeptId");
 
@@ -108,22 +110,19 @@ namespace App1.Migrations
                     b.ToTable("Students");
                 });
 
-            modelBuilder.Entity("App1.Entities.StudentCourse", b =>
+            modelBuilder.Entity("CourseStudent", b =>
                 {
-                    b.Property<int>("StudentId")
+                    b.Property<int>("Coursesid")
                         .HasColumnType("int");
 
-                    b.Property<int>("CourseId")
+                    b.Property<int>("StudentsId")
                         .HasColumnType("int");
 
-                    b.Property<int>("Grade")
-                        .HasColumnType("int");
+                    b.HasKey("Coursesid", "StudentsId");
 
-                    b.HasKey("StudentId", "CourseId");
+                    b.HasIndex("StudentsId");
 
-                    b.HasIndex("CourseId");
-
-                    b.ToTable("StudentCourse");
+                    b.ToTable("CourseStudent");
                 });
 
             modelBuilder.Entity("App1.Entities.Employee", b =>
@@ -137,34 +136,24 @@ namespace App1.Migrations
                     b.Navigation("Departement");
                 });
 
-            modelBuilder.Entity("App1.Entities.StudentCourse", b =>
+            modelBuilder.Entity("CourseStudent", b =>
                 {
                     b.HasOne("App1.Entities.Course", null)
-                        .WithMany("StudentCourses")
-                        .HasForeignKey("CourseId")
+                        .WithMany()
+                        .HasForeignKey("Coursesid")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("App1.Entities.Student", null)
-                        .WithMany("StudentCourses")
-                        .HasForeignKey("StudentId")
+                        .WithMany()
+                        .HasForeignKey("StudentsId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("App1.Entities.Course", b =>
-                {
-                    b.Navigation("StudentCourses");
                 });
 
             modelBuilder.Entity("App1.Entities.Departement", b =>
                 {
                     b.Navigation("Employees");
-                });
-
-            modelBuilder.Entity("App1.Entities.Student", b =>
-                {
-                    b.Navigation("StudentCourses");
                 });
 #pragma warning restore 612, 618
         }

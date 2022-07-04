@@ -53,6 +53,9 @@ namespace App1.Context
             //    EB.Property(D => D.YearOfCreation).HasDefaultValue(DateTime.Now);
             //});
 
+            // // Many To Many Mapping With Fluent Api
+            modelBuilder.Entity<StudentCourse>().HasKey(SC => new { SC.StudentId, SC.CourseId });
+
             base.OnModelCreating(modelBuilder);
 
 
@@ -73,6 +76,8 @@ namespace App1.Context
         // // Mapping With Convention
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Student> Students { get; set; }
+        public DbSet<Course> Courses { get; set; }
+
     }
 
 }

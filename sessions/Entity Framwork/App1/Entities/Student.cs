@@ -14,5 +14,9 @@ namespace App1.Entities
         [StringLength(40)]
         public int Name { get; set; }
         public int Age { get; set; }
+
+        //public virtual ICollection<Course> Courses { get; set; } = new HashSet<Course>(); // (nav prop) Many to Many By Convention
+
+        public virtual ICollection<StudentCourse> StudentCourses { get; set; } = new HashSet<StudentCourse>();
     }
 }
