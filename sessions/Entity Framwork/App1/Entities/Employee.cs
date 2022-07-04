@@ -21,6 +21,8 @@ namespace App1.Entities
 
 
 
+
+    // // Data annotation
     [Table("Employee")]
     public class Employee
     {

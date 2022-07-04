@@ -10,6 +10,7 @@ namespace App1.Context
 {
     internal class EnterpriseDbContext : DbContext
     {
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //optionsBuilder.UseSqlServer("data source = .; intial catalog =  EnterpriseDb; integrated security = true");
@@ -17,10 +18,41 @@ namespace App1.Context
         }
 
 
+
+
+
+
+
+        // // Fluent Api
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Departement>().HasKey(D => D.DeptId);
+            modelBuilder.Entity<Departement>().ToTable("Departements");
+            modelBuilder.Entity<Departement>()
+                .Property(D => D.DeptName)
+                .IsRequired(true)
+                .IsUnicode(true);
+
+            modelBuilder.Entity<Departement>()
+                .Property(D => D.YearOfCreation)
+                .HasDefaultValue(DateTime.Now);
+
+
+            // modelBuilder.Entity<Departement>(EB =>
+            //{
+            //    EB.HasKey(D => D.DeptId);
+            //    EB.Property(D => D.YearOfCreation).HasDefaultValue(DateTime.Now);
+            //});
+
+            base.OnModelCreating(modelBuilder);
+        }
+
+
+
+
+
+
         public DbSet<Employee> Employees { get; set; }
-
-
-
     }
 
 }
