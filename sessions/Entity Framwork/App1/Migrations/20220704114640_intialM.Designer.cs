@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace App1.Migrations
 {
     [DbContext(typeof(EnterpriseDbContext))]
-    [Migration("20220704110139_intialMigration")]
-    partial class intialMigration
+    [Migration("20220704114640_intialM")]
+    partial class intialM
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -31,16 +31,21 @@ namespace App1.Migrations
                     b.Property<int?>("Age")
                         .HasColumnType("int");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("EmailAddress")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<double>("Salary")
-                        .HasColumnType("float");
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)");
+
+                    b.Property<decimal>("Salary")
+                        .HasColumnType("money");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Employee");
                 });
 #pragma warning restore 612, 618
         }

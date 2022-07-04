@@ -16,7 +16,11 @@ namespace App1.Context
             optionsBuilder.UseSqlServer("server = .; database =  EnterpriseDb; integrated security = true");
         }
 
-            public DbSet<Employee> Employees { get; set; }
+
+        public DbSet<Employee> Employees { get; set; }
+
+
+
     }
 
 }
