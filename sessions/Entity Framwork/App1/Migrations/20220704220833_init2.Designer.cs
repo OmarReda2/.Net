@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace App1.Migrations
 {
     [DbContext(typeof(EnterpriseDbContext))]
-    [Migration("20220704151550_addNewTable")]
-    partial class addNewTable
+    [Migration("20220704220833_init2")]
+    partial class init2
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -20,6 +20,22 @@ namespace App1.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.17")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+            modelBuilder.Entity("App1.Entities.Course", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Courses");
+                });
 
             modelBuilder.Entity("App1.Entities.Departement", b =>
                 {
@@ -36,7 +52,7 @@ namespace App1.Migrations
                     b.Property<DateTime>("YearOfCreation")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2022, 7, 4, 17, 15, 49, 851, DateTimeKind.Local).AddTicks(275));
+                        .HasDefaultValue(new DateTime(2022, 7, 5, 0, 8, 33, 72, DateTimeKind.Local).AddTicks(7477));
 
                     b.HasKey("DeptId");
 
@@ -45,15 +61,12 @@ namespace App1.Migrations
 
             modelBuilder.Entity("App1.Entities.Employee", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("EmpId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<int?>("Age")
-                        .HasColumnType("int");
-
-                    b.Property<int>("DepartementDeptId")
                         .HasColumnType("int");
 
                     b.Property<string>("EmailAddress")
@@ -68,11 +81,9 @@ namespace App1.Migrations
                     b.Property<decimal>("Salary")
                         .HasColumnType("money");
 
-                    b.HasKey("Id");
+                    b.HasKey("EmpId");
 
-                    b.HasIndex("DepartementDeptId");
-
-                    b.ToTable("Employee");
+                    b.ToTable("Employees");
                 });
 
             modelBuilder.Entity("App1.Entities.Student", b =>
@@ -94,20 +105,77 @@ namespace App1.Migrations
                     b.ToTable("Students");
                 });
 
-            modelBuilder.Entity("App1.Entities.Employee", b =>
+            modelBuilder.Entity("App1.Entities.StudentCourse", b =>
                 {
-                    b.HasOne("App1.Entities.Departement", "Departement")
-                        .WithMany("Employees")
-                        .HasForeignKey("DepartementDeptId")
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CourseId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Grade")
+                        .HasColumnType("int");
+
+                    b.HasKey("StudentId", "CourseId");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("StudentCourse");
+                });
+
+            modelBuilder.Entity("DepartementEmployee", b =>
+                {
+                    b.Property<int>("DepartementsDeptId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("EmployeesEmpId")
+                        .HasColumnType("int");
+
+                    b.HasKey("DepartementsDeptId", "EmployeesEmpId");
+
+                    b.HasIndex("EmployeesEmpId");
+
+                    b.ToTable("DepartementEmployee");
+                });
+
+            modelBuilder.Entity("App1.Entities.StudentCourse", b =>
+                {
+                    b.HasOne("App1.Entities.Course", null)
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("CourseId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Departement");
+                    b.HasOne("App1.Entities.Student", null)
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("StudentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
-            modelBuilder.Entity("App1.Entities.Departement", b =>
+            modelBuilder.Entity("DepartementEmployee", b =>
                 {
-                    b.Navigation("Employees");
+                    b.HasOne("App1.Entities.Departement", null)
+                        .WithMany()
+                        .HasForeignKey("DepartementsDeptId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("App1.Entities.Employee", null)
+                        .WithMany()
+                        .HasForeignKey("EmployeesEmpId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("App1.Entities.Course", b =>
+                {
+                    b.Navigation("StudentCourses");
+                });
+
+            modelBuilder.Entity("App1.Entities.Student", b =>
+                {
+                    b.Navigation("StudentCourses");
                 });
 #pragma warning restore 612, 618
         }

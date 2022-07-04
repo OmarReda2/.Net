@@ -9,6 +9,7 @@ namespace App1.Entities
 {
     public class Student
     {
+        
         public int Id { get; set; }
         [Required]
         [StringLength(40)]
@@ -17,6 +18,6 @@ namespace App1.Entities
 
         //public virtual ICollection<Course> Courses { get; set; } = new HashSet<Course>(); // (nav prop) Many to Many By Convention
 
-        public virtual ICollection<StudentCourse> StudentCourses { get; set; } = new HashSet<StudentCourse>();
+        public virtual ICollection<StudentCourse> StudentCourses { get; set; } = new HashSet<StudentCourse>(); //
     }
 }

@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace App1.Migrations
 {
     [DbContext(typeof(EnterpriseDbContext))]
-    [Migration("20220704154255_MtoMRelation")]
-    partial class MtoMRelation
+    [Migration("20220704220455_init")]
+    partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -52,7 +52,7 @@ namespace App1.Migrations
                     b.Property<DateTime>("YearOfCreation")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2022, 7, 4, 17, 42, 54, 878, DateTimeKind.Local).AddTicks(5246));
+                        .HasDefaultValue(new DateTime(2022, 7, 5, 0, 4, 54, 922, DateTimeKind.Local).AddTicks(9876));
 
                     b.HasKey("DeptId");
 
@@ -61,7 +61,7 @@ namespace App1.Migrations
 
             modelBuilder.Entity("App1.Entities.Employee", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("EmpId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
@@ -69,7 +69,7 @@ namespace App1.Migrations
                     b.Property<int?>("Age")
                         .HasColumnType("int");
 
-                    b.Property<int>("DepartementDeptId")
+                    b.Property<int>("DepartementsDeptId")
                         .HasColumnType("int");
 
                     b.Property<string>("EmailAddress")
@@ -84,11 +84,11 @@ namespace App1.Migrations
                     b.Property<decimal>("Salary")
                         .HasColumnType("money");
 
-                    b.HasKey("Id");
+                    b.HasKey("EmpId");
 
-                    b.HasIndex("DepartementDeptId");
+                    b.HasIndex("DepartementsDeptId");
 
-                    b.ToTable("Employee");
+                    b.ToTable("Employees");
                 });
 
             modelBuilder.Entity("App1.Entities.Student", b =>
@@ -110,50 +110,63 @@ namespace App1.Migrations
                     b.ToTable("Students");
                 });
 
-            modelBuilder.Entity("CourseStudent", b =>
+            modelBuilder.Entity("App1.Entities.StudentCourse", b =>
                 {
-                    b.Property<int>("Coursesid")
+                    b.Property<int>("StudentId")
                         .HasColumnType("int");
 
-                    b.Property<int>("StudentsId")
+                    b.Property<int>("CourseId")
                         .HasColumnType("int");
 
-                    b.HasKey("Coursesid", "StudentsId");
+                    b.Property<int>("Grade")
+                        .HasColumnType("int");
 
-                    b.HasIndex("StudentsId");
+                    b.HasKey("StudentId", "CourseId");
 
-                    b.ToTable("CourseStudent");
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("StudentCourse");
                 });
 
             modelBuilder.Entity("App1.Entities.Employee", b =>
                 {
-                    b.HasOne("App1.Entities.Departement", "Departement")
+                    b.HasOne("App1.Entities.Departement", "Departements")
                         .WithMany("Employees")
-                        .HasForeignKey("DepartementDeptId")
+                        .HasForeignKey("DepartementsDeptId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Departement");
+                    b.Navigation("Departements");
                 });
 
-            modelBuilder.Entity("CourseStudent", b =>
+            modelBuilder.Entity("App1.Entities.StudentCourse", b =>
                 {
                     b.HasOne("App1.Entities.Course", null)
-                        .WithMany()
-                        .HasForeignKey("Coursesid")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("CourseId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("App1.Entities.Student", null)
-                        .WithMany()
-                        .HasForeignKey("StudentsId")
+                        .WithMany("StudentCourses")
+                        .HasForeignKey("StudentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("App1.Entities.Course", b =>
+                {
+                    b.Navigation("StudentCourses");
                 });
 
             modelBuilder.Entity("App1.Entities.Departement", b =>
                 {
                     b.Navigation("Employees");
+                });
+
+            modelBuilder.Entity("App1.Entities.Student", b =>
+                {
+                    b.Navigation("StudentCourses");
                 });
 #pragma warning restore 612, 618
         }

@@ -23,11 +23,11 @@ namespace App1.Entities
 
 
     // // Data annotation
-    [Table("Employee")]
+    [Table("Employees")]
     public class Employee
     {
         [Key]
-        public int Id { get; set; }
+        public int EmpId { get; set; }
 
         [Required]
         [Column(TypeName = "varchar")]
@@ -45,7 +45,10 @@ namespace App1.Entities
 
 
         [DataType(DataType.EmailAddress)]
-        public string EmailAddress{ get; set; }
-        public virtual Departement Departement{ get; set; }
+        public string EmailAddress { get; set; } = "@Email";
+        //public virtual Departement Departement { get; set; }
+        public virtual ICollection<Departement> Departements { get; set; } = new HashSet<Departement>();
+
+
     }
 }

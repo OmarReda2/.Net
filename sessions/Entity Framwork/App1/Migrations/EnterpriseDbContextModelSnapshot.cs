@@ -50,7 +50,7 @@ namespace App1.Migrations
                     b.Property<DateTime>("YearOfCreation")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2022, 7, 4, 17, 57, 34, 165, DateTimeKind.Local).AddTicks(2640));
+                        .HasDefaultValue(new DateTime(2022, 7, 5, 0, 8, 33, 72, DateTimeKind.Local).AddTicks(7477));
 
                     b.HasKey("DeptId");
 
@@ -59,15 +59,12 @@ namespace App1.Migrations
 
             modelBuilder.Entity("App1.Entities.Employee", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("EmpId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<int?>("Age")
-                        .HasColumnType("int");
-
-                    b.Property<int>("DepartementDeptId")
                         .HasColumnType("int");
 
                     b.Property<string>("EmailAddress")
@@ -82,11 +79,9 @@ namespace App1.Migrations
                     b.Property<decimal>("Salary")
                         .HasColumnType("money");
 
-                    b.HasKey("Id");
+                    b.HasKey("EmpId");
 
-                    b.HasIndex("DepartementDeptId");
-
-                    b.ToTable("Employee");
+                    b.ToTable("Employees");
                 });
 
             modelBuilder.Entity("App1.Entities.Student", b =>
@@ -126,15 +121,19 @@ namespace App1.Migrations
                     b.ToTable("StudentCourse");
                 });
 
-            modelBuilder.Entity("App1.Entities.Employee", b =>
+            modelBuilder.Entity("DepartementEmployee", b =>
                 {
-                    b.HasOne("App1.Entities.Departement", "Departement")
-                        .WithMany("Employees")
-                        .HasForeignKey("DepartementDeptId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Property<int>("DepartementsDeptId")
+                        .HasColumnType("int");
 
-                    b.Navigation("Departement");
+                    b.Property<int>("EmployeesEmpId")
+                        .HasColumnType("int");
+
+                    b.HasKey("DepartementsDeptId", "EmployeesEmpId");
+
+                    b.HasIndex("EmployeesEmpId");
+
+                    b.ToTable("DepartementEmployee");
                 });
 
             modelBuilder.Entity("App1.Entities.StudentCourse", b =>
@@ -152,14 +151,24 @@ namespace App1.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("DepartementEmployee", b =>
+                {
+                    b.HasOne("App1.Entities.Departement", null)
+                        .WithMany()
+                        .HasForeignKey("DepartementsDeptId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("App1.Entities.Employee", null)
+                        .WithMany()
+                        .HasForeignKey("EmployeesEmpId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("App1.Entities.Course", b =>
                 {
                     b.Navigation("StudentCourses");
-                });
-
-            modelBuilder.Entity("App1.Entities.Departement", b =>
-                {
-                    b.Navigation("Employees");
                 });
 
             modelBuilder.Entity("App1.Entities.Student", b =>

@@ -25,16 +25,27 @@ namespace App1.Context
         // // Mapping with Fluent Api
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Departement>().HasKey(D => D.DeptId);
-            modelBuilder.Entity<Departement>().ToTable("Departements");
-            modelBuilder.Entity<Departement>()
-                .Property(D => D.DeptName)
-                .IsRequired(true)
-                .IsUnicode(true);
 
-            modelBuilder.Entity<Departement>()
-                .Property(D => D.YearOfCreation)
-                .HasDefaultValue(DateTime.Now);
+            // // Commented as it was made in Configration Class
+            //modelBuilder.Entity<Departement>().HasKey(D => D.DeptId);
+            //modelBuilder.Entity<Departement>().ToTable("Departements");
+            //modelBuilder.Entity<Departement>()
+            //    .Property(D => D.DeptName)
+            //    .IsRequired(true)
+            //    .IsUnicode(true);
+
+            //modelBuilder.Entity<Departement>()
+            //    .Property(D => D.YearOfCreation)
+            //    .HasDefaultValue(DateTime.Now);
+
+            // // modelBuilder.Entity<Departement>(EB =>
+            // //{
+            // //    EB.HasKey(D => D.DeptId);
+            // //    EB.Property(D => D.YearOfCreation).HasDefaultValue(DateTime.Now);
+            // //});
+
+
+
 
 
 
@@ -47,26 +58,26 @@ namespace App1.Context
             //    .HasOne(E => E.Departement)
             //    .WithMany(D => D.Employees);
 
-            // modelBuilder.Entity<Departement>(EB =>
-            //{
-            //    EB.HasKey(D => D.DeptId);
-            //    EB.Property(D => D.YearOfCreation).HasDefaultValue(DateTime.Now);
-            //});
+
+
+
+
 
             // // Many To Many Mapping With Fluent Api
             modelBuilder.Entity<StudentCourse>().HasKey(SC => new { SC.StudentId, SC.CourseId });
 
-            base.OnModelCreating(modelBuilder);
-
-
-
-
-
+            
 
 
 
             // // Mapping with Configration Class
             modelBuilder.ApplyConfiguration(new DepartementConfigration());
+ 
+
+
+
+
+            base.OnModelCreating(modelBuilder);
         }
 
 
@@ -74,6 +85,7 @@ namespace App1.Context
 
 
         // // Mapping With Convention
+        public DbSet<Departement> Departements { get; set; }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }
