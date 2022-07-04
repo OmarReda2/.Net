@@ -22,7 +22,6 @@ namespace App1.Context
 
 
 
-
         // // Fluent Api
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
