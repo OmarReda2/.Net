@@ -53,7 +53,7 @@ namespace App1.Context
 
 
             // // Mapping Using Configration Class
-            modelBuilder.ApplyConfiguration(new DepartementConfigration);
+            modelBuilder.ApplyConfiguration(new DepartementConfigration());
         }
 
 
