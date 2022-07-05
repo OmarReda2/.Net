@@ -18,5 +18,10 @@ namespace Demo.Controllers
             var result = await _context.Employees.Include(E => E.Departement).ToArrayAsync();
             return View(result);
         }
+
+        public <IActionResult> Create()
+        {
+
+        }
     }
 }
