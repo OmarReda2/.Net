@@ -10,6 +10,7 @@ namespace Demo.Data
 
         }
 
+        
 
         public DbSet<Departement> Deprtements { get; set; }
         public DbSet<Employee> Employees { get; set; }
