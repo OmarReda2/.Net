@@ -1,0 +1,12 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
