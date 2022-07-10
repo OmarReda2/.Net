@@ -19,7 +19,7 @@ namespace Demo.DAL.Migrations
                 .HasAnnotation("ProductVersion", "5.0.17")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("Demo.DAL.Entities.Departement", b =>
+            modelBuilder.Entity("Demo.DAL.Entities.Department", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -36,7 +36,7 @@ namespace Demo.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Departements");
+                    b.ToTable("Departments");
                 });
 
             modelBuilder.Entity("Demo.DAL.Entities.Employee", b =>
@@ -52,7 +52,7 @@ namespace Demo.DAL.Migrations
                     b.Property<DateTime>("CreationDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("DepartementId")
+                    b.Property<int>("DepartmentId")
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
@@ -74,23 +74,23 @@ namespace Demo.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("DepartementId");
+                    b.HasIndex("DepartmentId");
 
                     b.ToTable("Employees");
                 });
 
             modelBuilder.Entity("Demo.DAL.Entities.Employee", b =>
                 {
-                    b.HasOne("Demo.DAL.Entities.Departement", "Departements")
+                    b.HasOne("Demo.DAL.Entities.Department", "Department")
                         .WithMany("Employees")
-                        .HasForeignKey("DepartementId")
+                        .HasForeignKey("DepartmentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Departements");
+                    b.Navigation("Department");
                 });
 
-            modelBuilder.Entity("Demo.DAL.Entities.Departement", b =>
+            modelBuilder.Entity("Demo.DAL.Entities.Department", b =>
                 {
                     b.Navigation("Employees");
                 });

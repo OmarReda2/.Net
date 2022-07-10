@@ -14,17 +14,16 @@ namespace Demo.DAL.Entities
         [MaxLength(50)]
         [MinLength(10)]
         public string Name { get; set; }
-        //[RegularExpression("")]
+        //[RegularExpression("[0-9]{1,3}-")]
         public string Address { get; set; }
         [DataType(DataType.Currency)]
         public decimal Salary { get; set; }
         public bool IsActive { get; set; }
         [EmailAddress]
-        public String Email { get; set; }
+        public string Email { get; set; }
         public DateTime HireDate { get; set; }
         public DateTime CreationDate { get; set; }
-        public int DepartementId { get; set; }
-        public virtual Departement Departements { get; set; }
-
+        public int DepartmentId { get; set; }
+        public virtual Department Department { get; set; }
     }
 }

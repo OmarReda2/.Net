@@ -1,6 +1,7 @@
 using Demo.BLL.Interfaces;
 using Demo.BLL.Repositories;
 using Demo.DAL.Context;
+using Demo.PL.Mapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -12,7 +13,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
 
 namespace Demo
 {
@@ -29,18 +29,20 @@ namespace Demo
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<AppDbContext>(options => 
-            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))
+
+            services.AddDbContext<AppDbContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))
             );
 
-            //services.AddSingleton
-            //services.AddScoped
-            //services.AddTransient
-
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+
             services.AddScoped<IEmployeeRepository, EmployeeRepository>();
-            services.AddScoped<IDepartementRepository, DepartementRepository>();
-            
+            services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+
+            services.AddAutoMapper(M => M.AddProfile(new EmployeeProfile()));
+            services.AddAutoMapper(M => M.AddProfile(new DepartmentProfile()));
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -13,16 +13,14 @@ namespace Demo.BLL.Repositories
     {
         private readonly AppDbContext _context;
 
-        public EmployeeRepository(AppDbContext context):base(context)
+        public EmployeeRepository(AppDbContext context): base(context)
         {
             _context = context;
         }
 
-        public IEnumerable<Employee> GetEmployeesByDepartement(string name)
+        public IEnumerable<Employee> GetEmployeesByDepartment(string name)
         {
             throw new NotImplementedException();
         }
     }
-
-  
 }

@@ -29,10 +29,10 @@ namespace Demo.BLL.Repositories
         }
 
         public T Get(int? id)
-        => _context.Set<T>().Find(id);
+            => _context.Set<T>().Find(id);
 
         public IEnumerable<T> GetAll()
-        => _context.Set<T>().ToList();
+            => _context.Set<T>().ToList();
 
         public int Update(T obj)
         {

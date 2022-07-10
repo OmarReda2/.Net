@@ -1,4 +1,4 @@
-﻿using Demo.Models;
+﻿using Demo.PL.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;

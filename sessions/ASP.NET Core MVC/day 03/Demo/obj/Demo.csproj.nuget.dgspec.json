@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03\\Demo\\Demo.csproj": {}
+    "C:\\Users\\Ahmed Khaled\\Documents\\Apowersoft\\Apowersoft Online Screen Recorder\\MVC S3\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03\\Demo\\Demo.csproj": {
+    "C:\\Users\\Ahmed Khaled\\Documents\\Apowersoft\\Apowersoft Online Screen Recorder\\MVC S3\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed Khaled\\Documents\\Apowersoft\\Apowersoft Online Screen Recorder\\MVC S3\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03\\Demo\\Demo.csproj",
-        "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-        "outputPath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03\\Demo\\obj\\",
+        "projectPath": "C:\\Users\\Ahmed Khaled\\Documents\\Apowersoft\\Apowersoft Online Screen Recorder\\MVC S3\\Demo\\Demo.csproj",
+        "packagesPath": "C:\\Users\\Ahmed Khaled\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed Khaled\\Documents\\Apowersoft\\Apowersoft Online Screen Recorder\\MVC S3\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmed Khaled\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.16, 5.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -63,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

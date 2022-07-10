@@ -15,6 +15,6 @@ namespace Demo.DAL.Context
         }
 
         public DbSet<Employee> Employees { get; set; }
-        public DbSet<Departement> Departements { get; set; }
+        public DbSet<Department> Departments { get; set; }
     }
 }
