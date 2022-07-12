@@ -18,6 +18,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
     <!-- Custom Theme files -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link href="~/css/Auth.css" rel="stylesheet" type="text/css" media="all" />
     <!-- //Custom Theme files -->
     <!-- web font -->
@@ -31,21 +32,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="main-agileinfo">
             <div class="agileits-top">
                 @RenderBody()
-             @*   <form action="#" method="post">
+                @*   <form action="#" method="post">
                     <input class="text" type="text" name="Username" placeholder="Username" required="">
                     <input class="text email" type="email" name="email" placeholder="Email" required="">
                     <input class="text" type="password" name="password" placeholder="Password" required="">
                     <input class="text w3lpass" type="password" name="password" placeholder="Confirm Password" required="">
                     <div class="wthree-text">
-                        <label class="anim">
-                            <input type="checkbox" class="checkbox" required="">
-                            <span>I Agree To The Terms & Conditions</span>
-                        </label>
-                        <div class="clear"> </div>
+                    <label class="anim">
+                    <input type="checkbox" class="checkbox" required="">
+                    <span>I Agree To The Terms & Conditions</span>
+                    </label>
+                    <div class="clear"> </div>
                     </div>
                     <input type="submit" value="SIGNUP">
-                </form>               
-                <p>Don't have an Account? <a href="#"> Login Now!</a></p>*@
+                    </form>
+                    <p>Don't have an Account? <a href="#"> Login Now!</a></p>*@
             </div>
         </div>
         <!-- copyright -->
@@ -67,5 +68,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </ul>
     </div>
     <!-- //main -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
