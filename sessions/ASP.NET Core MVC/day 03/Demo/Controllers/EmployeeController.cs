@@ -24,15 +24,39 @@ namespace Demo.PL.Controllers
             return View(mappedEmplyees);
         }
 
+
+
+        //public IActionResult Details(int? id)
+        //{
+        //    if (id == null)
+        //        return NotFound();
+        //    var employee = _unitOfWork.EmployeeRepository.Get(id);
+        //    if (employee == null)
+        //        return NotFound();
+
+        //    return View(employee);
+        //}
         public IActionResult Details(int? id)
         {
+
             if (id == null)
                 return NotFound();
+
+
+
             var employee = _unitOfWork.EmployeeRepository.Get(id);
+            var mappedEmployee = _mapper.Map<Employee, EmployeeViewModel>(employee);
+
+
+            var empDepartment = _unitOfWork.EmployeeRepository.Get(id).DepartmentId;
+            var department = _unitOfWork.DepartmentRepository.Get(empDepartment);
+            var mappedEmpDept = _mapper.Map<Department, DepartmentViewModel>(department);
+            ViewData["Departement"] = mappedEmpDept.Name;
+
             if (employee == null)
                 return NotFound();
 
-            return View(employee);
+            return View(mappedEmployee);
         }
 
         [HttpGet]
@@ -43,7 +67,7 @@ namespace Demo.PL.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(EmployeeViewModel employee) 
+        public IActionResult Create(EmployeeViewModel employee)
         {
             if (ModelState.IsValid)
             {
@@ -53,7 +77,42 @@ namespace Demo.PL.Controllers
             }
             ViewBag.Departments = _unitOfWork.DepartmentRepository.GetAll();
             return View(employee);
+        }
 
+        public IActionResult Delete(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var employee = _unitOfWork.EmployeeRepository.Get(id);
+            _unitOfWork.EmployeeRepository.Delete(employee);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult Edit(int? id)
+        {
+            var x = _unitOfWork.EmployeeRepository.Get(id).DepartmentId;
+            var y = _unitOfWork.DepartmentRepository.Get(x).Name;
+            ViewData["Department"] = y;
+            ViewData["Departments"] = _unitOfWork.DepartmentRepository.GetAll();
+
+            var employee = _unitOfWork.EmployeeRepository.Get(id);
+            var mappedEmployee = _mapper.Map<Employee, EmployeeViewModel>(employee);
+
+            return View(employee);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(int? id, EmployeeViewModel employee)
+        {
+            if (ModelState.IsValid)
+            {
+                var mappedEmp = _mapper.Map<EmployeeViewModel, Employee>(employee);
+                _unitOfWork.EmployeeRepository.Update(mappedEmp);
+                return RedirectToAction("Index");
+            }
+            return View(employee);
         }
     }
 }

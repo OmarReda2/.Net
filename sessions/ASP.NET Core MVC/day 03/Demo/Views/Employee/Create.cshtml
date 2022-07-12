@@ -42,11 +42,15 @@
         </select>
         <span class="text-danger" asp-validation-for="DepartmentId"></span>
     </div>
+
+    <br />
     <div class="demo-checkbox">
         <input type="checkbox" asp-for="IsActive"/>
         <label asp-for="IsActive"></label>
         <span asp-validation-for="IsActive" class="text-danger"></span>
     </div>
+    <br />
+
 
     <input type="submit" class="btn btn-primary" value="Add"/>
     <a asp-action="Index" class="btn btn-light">Back To List</a>
