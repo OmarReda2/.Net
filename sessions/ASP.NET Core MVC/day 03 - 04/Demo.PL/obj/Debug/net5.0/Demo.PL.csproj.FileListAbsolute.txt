@@ -635,3 +635,7 @@ E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03 - 
 E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03 - 04\Demo.PL\obj\Debug\net5.0\Demo.PL.pdb
 E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03 - 04\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
 E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03 - 04\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03 - 04\Demo.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03 - 04\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03 - 04\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\ASP.NET Core MVC\day 03 - 04\Demo.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
