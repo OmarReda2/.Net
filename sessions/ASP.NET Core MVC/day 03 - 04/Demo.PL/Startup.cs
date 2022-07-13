@@ -62,7 +62,7 @@ namespace Demo
                 .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, options =>
                 {
                     options.LoginPath = new PathString("Account/Login");
-                    options.AccessDeniedPath = new PathString("Shared/Error");
+                    options.AccessDeniedPath = new PathString("Home/Error");
                 });
 
 

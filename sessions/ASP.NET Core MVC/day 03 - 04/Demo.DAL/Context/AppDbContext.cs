@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Demo.DAL.Context
 {
-    public class AppDbContext : IdentityDbContext
+    public class AppDbContext : IdentityDbContext<ApplicationUser>
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
