@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj": {}
+    "D:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj": {}
   },
   "projects": {
-    "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj": {
+    "D:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj",
+        "projectUniqueName": "D:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj",
         "projectName": "Demo.DAL",
-        "projectPath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj",
+        "projectPath": "D:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj",
         "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-        "outputPath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\obj\\",
+        "outputPath": "D:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,12 +65,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

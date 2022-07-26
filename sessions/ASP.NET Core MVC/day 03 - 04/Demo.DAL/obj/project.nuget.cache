@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YU9Y5n3dLHKkuBC7htpccCs2zKQwOxZ6X4qY5T7I64rXxX/e6AlvSIVtr1ZCMmS817BDOlaaMms4uOphIRSYbg==",
+  "dgSpecHash": "JwaaHEAlVku5WcvVuGQ0IkoAX4ZX4rjfWgUQV2TPfjS9BXvl7pKGv7rJyCMYqNiDpNdEhR+bBMcoFCT7hk5n4A==",
   "success": true,
-  "projectFilePath": "E:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj",
+  "projectFilePath": "D:\\Omar\\Courses\\Web\\ASP.Net Backend\\Practice\\sessions\\ASP.NET Core MVC\\day 03 - 04\\Demo.DAL\\Demo.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
@@ -105,7 +105,10 @@
     "C:\\Users\\omarr\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\omarr\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\omarr\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\omarr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\omarr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\omarr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
