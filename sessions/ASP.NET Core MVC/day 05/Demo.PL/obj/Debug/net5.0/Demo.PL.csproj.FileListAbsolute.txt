@@ -1155,3 +1155,6 @@ E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05\Demo.PL\obj\Debug\net5
 E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05\Demo.PL\obj\Debug\net5.0\Demo.PL.csproj.CopyComplete
 E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05\Demo.PL\obj\Debug\net5.0\Demo.PL.genruntimeconfig.cache
 E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05\Demo.PL\obj\Debug\net5.0\ref\Demo.PL.dll
+E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05\Demo.PL\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05\Demo.PL\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05\Demo.PL\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
