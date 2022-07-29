@@ -33,8 +33,15 @@ using Demo.DAL.Entities;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05 - 06\Demo.PL\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1b91b6b2ec8940458b4316aa588b0d918b961ff3", @"/Views/Account/CompleteForgetPassword.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"43487e7d498466fecd4ad07e10654633fe305c4b", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6552a0b163dbb16260db5e5df54fa31e42720a7f", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Account_CompleteForgetPassword : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

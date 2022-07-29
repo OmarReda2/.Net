@@ -33,8 +33,15 @@ using Demo.DAL.Entities;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05 - 06\Demo.PL\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5286b614729450ebee670947a8cefde472ea245b", @"/Views/Shared/_AuthLayout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"43487e7d498466fecd4ad07e10654633fe305c4b", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6552a0b163dbb16260db5e5df54fa31e42720a7f", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared__AuthLayout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
@@ -81,7 +88,7 @@ using Demo.DAL.Entities;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<!--\r\nAuthor: Colorlib\r\nAuthor URL: https://colorlib.com\r\nLicense: Creative Commons Attribution 3.0 Unported\r\nLicense URL: http://creativecommons.org/licenses/by/3.0/\r\n-->\r\n<!DOCTYPE html>\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5286b614729450ebee670947a8cefde472ea245b6671", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5286b614729450ebee670947a8cefde472ea245b6886", async() => {
                 WriteLiteral(@"
     <title>Creative Colorlib SignUp Form</title>
     <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
@@ -89,7 +96,7 @@ using Demo.DAL.Entities;
     <script type=""application/x-javascript""> addEventListener(""load"", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
     <!-- Custom Theme files -->
     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5286b614729450ebee670947a8cefde472ea245b7355", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5286b614729450ebee670947a8cefde472ea245b7570", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -104,7 +111,7 @@ using Demo.DAL.Entities;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5286b614729450ebee670947a8cefde472ea245b8533", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "5286b614729450ebee670947a8cefde472ea245b8748", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -133,7 +140,7 @@ using Demo.DAL.Entities;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5286b614729450ebee670947a8cefde472ea245b10788", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5286b614729450ebee670947a8cefde472ea245b11003", async() => {
                 WriteLiteral("\r\n    <!-- main -->\r\n    <div class=\"main-w3layouts wrapper\">\r\n        <h1>Creative SignUp Form</h1>\r\n        <div class=\"main-agileinfo\">\r\n            <div class=\"agileits-top\">\r\n                ");
 #nullable restore
 #line 34 "E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05 - 06\Demo.PL\Views\Shared\_AuthLayout.cshtml"
@@ -165,7 +172,7 @@ using Demo.DAL.Entities;
     </div>
     <!-- //main -->
     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5286b614729450ebee670947a8cefde472ea245b12172", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5286b614729450ebee670947a8cefde472ea245b12387", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -179,7 +186,7 @@ using Demo.DAL.Entities;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5286b614729450ebee670947a8cefde472ea245b13272", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5286b614729450ebee670947a8cefde472ea245b13487", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
