@@ -1,4 +1,5 @@
 ﻿using Demo.DAL.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -6,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Demo.PL.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class UserController : Controller
     {
         public UserManager<ApplicationUser> _userManager { get; }

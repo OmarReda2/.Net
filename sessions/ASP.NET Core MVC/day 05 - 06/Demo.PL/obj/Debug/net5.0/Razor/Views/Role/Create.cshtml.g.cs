@@ -41,7 +41,7 @@ using Microsoft.AspNetCore.Identity;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c0a6c7ed21e9df18a75db9b5c7bd72f5bf44f928", @"/Views/Role/Create.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6552a0b163dbb16260db5e5df54fa31e42720a7f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6b81e66e56f4b7763e3866240c46e60087a2b054", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Role_Create : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IdentityRole>
     #nullable disable

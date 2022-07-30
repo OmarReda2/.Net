@@ -1337,3 +1337,4 @@ E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05 - 06\Demo.PL\obj\Debug
 E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05 - 06\Demo.PL\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
 E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05 - 06\Demo.PL\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
 E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05 - 06\Demo.PL\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+E:\ASP.NET Core\Practice\sessions\ASP.NET Core MVC\day 05 - 06\Demo.PL\obj\Debug\net5.0\Razor\Views\Role\AddOrRemoveUsers.cshtml.g.cs
