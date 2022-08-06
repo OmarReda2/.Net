@@ -1,4 +1,5 @@
 using Ecommerce.BLL.Interfaces;
+using Ecommerce.BLL.Mapper;
 using Ecommerce.BLL.Repository;
 using Ecommerce.DAL.Context;
 using Microsoft.AspNetCore.Builder;
@@ -29,6 +30,8 @@ namespace Ecommerce.PL
         {
             services.AddDbContext<EcommerceContext>(opts => opts.UseSqlServer(Configuration.GetConnectionString("ConnectionStr")));
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddAutoMapper(x => x.AddProfile(new DomainProfile()));
+
             services.AddControllersWithViews();
         }
 
