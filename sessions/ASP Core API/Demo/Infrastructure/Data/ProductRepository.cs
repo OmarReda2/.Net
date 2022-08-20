@@ -17,12 +17,12 @@ namespace Infrastructure.Data
         {
             _context = context;
         }
-        public async Task<IReadOnlyList<ProductToReturnDto>> GetAllProductsAsync()
+        public async Task<IReadOnlyList<Product>> GetProductsAsync()
         {
             return await _context.Products.ToListAsync();
         }
 
-        public async Task<ProductToReturnDto> GetProductByIdAsync(int? id)
+        public async Task<Product> GetProductByIdAsync(int? id)
         {
             return await _context.Products.FindAsync(id);
         }
@@ -36,5 +36,11 @@ namespace Infrastructure.Data
         {
             return await _context.ProductTypes.ToListAsync();
         }
+
+
+
+
+
+       
     }
 }
