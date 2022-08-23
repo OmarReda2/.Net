@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Core.Entities;
 using Core.Interfaces;
+using Core.Specification;
 using Demo.Dtos;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -28,9 +29,10 @@ namespace Demo.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<ProductToReturnDto>> GetProducts()
+        public async Task<ActionResult<ProductToReturnDto>> GetProducts([FromQuery]ProductSpecParams productParams)
         {
-            var products = await _productRepository.ListAllAsync();
+            var spec = new ProductsWithTypesAndBrandsSpecification(productParams);
+            var products = await _productRepository.ListAsync(spec);
             var data = _mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDto>>(products);
             return Ok(data);
         }
@@ -39,7 +41,8 @@ namespace Demo.Controllers
         [Route("{id}")]
         public async Task<ActionResult<ProductToReturnDto>> GetProduct(int id)
         {
-            var product = await _productRepository.GetByIdAsync(id);
+            var spec = new ProductsWithTypesAndBrandsSpecification(id);
+            var product = await _productRepository.GetEntityWithSpec(spec);
             return _mapper.Map<Product, ProductToReturnDto>(product);
         }
 
