@@ -4,6 +4,7 @@ using Core.Interfaces;
 using Core.Specification;
 using Demo.Dtos;
 using Demo.Errors;
+using Demo.Helper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -33,9 +34,15 @@ namespace Demo.Controllers
         public async Task<ActionResult<ProductToReturnDto>> GetProducts([FromQuery]ProductSpecParams productParams)
         {
             var spec = new ProductsWithTypesAndBrandsSpecification(productParams);
+
+            var countSpec = new ProductWithFiltersForCountSpecificaton(productParams);
+
+            var totalItems = await _productRepository.CountAsync(countSpec);
+
             var products = await _productRepository.ListAsync(spec);
+
             var data = _mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDto>>(products);
-            return Ok(data);
+            return Ok(new Pagination<ProductToReturnDto>(productParams.PageIndex, productParams.PageSize, totalItems, data));
         }
 
         [HttpGet]
