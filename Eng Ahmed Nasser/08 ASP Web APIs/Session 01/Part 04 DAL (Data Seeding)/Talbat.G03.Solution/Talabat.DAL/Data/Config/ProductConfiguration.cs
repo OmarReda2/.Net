@@ -21,7 +21,7 @@ namespace Talabat.DAL.Data.Config
             builder.Property(P => P.Price).HasColumnType("decimal(18,2)");
             builder.Property(P => P.PictureUrl).IsRequired();
 
-            // - WeakReference would notuse these property is it well be defined by convention
+            // // - WeakReference would not use these property is it well be defined by convention
             //builder.HasOne(P => P.ProductBrand).WithMany().
             //    HasForeignKey(P => P.ProductBrandId);
             //builder.HasOne(P => P.ProductType).WithMany().

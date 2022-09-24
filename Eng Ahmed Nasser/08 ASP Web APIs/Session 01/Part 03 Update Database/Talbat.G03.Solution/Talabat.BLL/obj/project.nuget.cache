@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Ba/watNQQKnk+Ya91BQBw/3ftV17rpuAVREY7RAX7O1vhI3LRjFoowptJS0sMV8iFIggMOZNTByfgyHjuQ96A==",
+  "dgSpecHash": "O6xvbuo6k8A8VakaKngDFdYWjwJQC9j2dIFtXrBh0xIyImi9mLVNydeLpNKkdku6mBMHva4iuSc9qA6hzcGuJA==",
   "success": true,
-  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET temp\\Part 03 Update Database\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj",
+  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 03 Update Database\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -9,7 +9,7 @@ using Talabat.DAL.Data;
 namespace Talabat.DAL.Data.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20220924205328_initialCreate")]
+    [Migration("20220924224802_initialCreate")]
     partial class initialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

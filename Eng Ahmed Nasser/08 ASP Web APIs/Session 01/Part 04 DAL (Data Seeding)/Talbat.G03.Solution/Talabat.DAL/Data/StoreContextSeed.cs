@@ -52,16 +52,16 @@ namespace Talabat.DAL.Data
                     await context.SaveChangesAsync();
                 }
 
-                if (!context.Product.Any())
-                {
-                    var productsData = File.ReadAllText("../Talabat.DAL/Data/SeedData/products.json");
-                    var products = JsonSerializer.Deserialize<List<Product>>(productsData);
-                    foreach (var product in products)
-                    {
-                        context.Set<Product>().Add(product);
-                    }
-                    await context.SaveChangesAsync();
-                }
+                //if (!context.Product.Any())
+                //{
+                //    var productsData = File.ReadAllText("../Talabat.DAL/Data/SeedData/products.json");
+                //    var products = JsonSerializer.Deserialize<List<Product>>(productsData);
+                //    foreach (var product in products)
+                //    {
+                //        context.Set<Product>().Add(product);
+                //    }
+                //    await context.SaveChangesAsync();
+                //}
             }
             // //p4.8 use the LoggerFactory that we defined to create the error in the console
             catch (Exception ex)
