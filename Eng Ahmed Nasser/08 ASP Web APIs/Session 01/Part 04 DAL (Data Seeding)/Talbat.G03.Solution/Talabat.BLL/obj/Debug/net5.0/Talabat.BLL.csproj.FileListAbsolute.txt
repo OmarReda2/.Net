@@ -1,0 +1,45 @@
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\refint\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 DAL (Entities, DbContext, Migrations)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\ref\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\refint\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Update Database\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\ref\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\bin\Debug\net5.0\Talabat.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\refint\Talabat.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\Talabat.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 DAL (Data Seeding)\Talbat.G03.Solution\Talabat.BLL\obj\Debug\net5.0\ref\Talabat.BLL.dll
