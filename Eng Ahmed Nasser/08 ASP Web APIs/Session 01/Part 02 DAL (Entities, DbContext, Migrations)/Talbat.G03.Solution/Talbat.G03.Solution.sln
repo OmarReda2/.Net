@@ -6,13 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Talbat.API", "Talbat.API\Talbat.API.csproj", "{7C1B9317-C032-4110-BAA2-9335A131413B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectStepsAndNotes", "ProjectStepsAndNotes", "{9F483A5A-3B66-4F46-8C50-9251ED099169}"
-	ProjectSection(SolutionItems) = preProject
-		TextFile1.cs = TextFile1.cs
-	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.DAL", "Talabat.DAL\Talabat.DAL.csproj", "{45B8639B-8C49-4358-9CB5-17C1638B5D39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Talabat.DAL", "Talabat.DAL\Talabat.DAL.csproj", "{45B8639B-8C49-4358-9CB5-17C1638B5D39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.BLL", "Talabat.BLL\Talabat.BLL.csproj", "{D266925B-1668-4CCF-8383-88CE956CD9E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Talabat.BLL", "Talabat.BLL\Talabat.BLL.csproj", "{D266925B-1668-4CCF-8383-88CE956CD9E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

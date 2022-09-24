@@ -21,9 +21,10 @@ namespace Talabat.DAL.Data
         //6- Go to Startup...
         //7- ... when creating object from StoreContext which has constocter depend on DI(DbContextOptions<StoreContext> options)
         //  - the object well be created in runtime as we has defined in Startup to allow creating object that
-        //  has DI constructor
+        //    has DI constructor
         //  - the Startup passes options to options defined here(which has now the ConnectionString)
-        //  - the options will be passed to the base()/DbContext which have function OnConfiguring()
+        //  - the options will be passed to the base()/DbContext which have function OnConfiguring() 
+        //    that will create our database
         public StoreContext(DbContextOptions<StoreContext> options):base(options)
         {
             
@@ -46,10 +47,10 @@ namespace Talabat.DAL.Data
 
 
 
-        //9- making Data/Config
-        // - making Data/Config/ProductConfiguration
-        //10- go to Data/Config/ProductConfiguration ...
-        //...11- coming from Data/Config/ProductConfiguration
+        //9- making Data/Config to make the validation by fluent API
+        // - making Data/Config/ProductConfiguration.cs
+        //10- go to Data/Config/ProductConfiguration.cs ...
+        //...11- coming from Data/Config/ProductConfiguration.cs
         //12- override OnmodelCreating() to add the configuration which has the prop/validation
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -57,10 +58,10 @@ namespace Talabat.DAL.Data
 
             //13- put modelBuilder to make the configuration
             //modelBuilder.ApplyConfiguration(new ProductConfiguration());
-            //modelBuilder.ApplyConfiguration(new OrderConfiguration()); // - Order configuration is imposed
+            //modelBuilder.ApplyConfiguration(new OrderConfiguration()); // - Order configuration is imposed here
 
 
-            //- we can add all configuration all in on time
+            //- we can add all configuration all in on time prefered as a clean code
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly()); //- any class implement IEntityTypeConfiguration
                                                                                            //  it will put it here
 
@@ -71,6 +72,7 @@ namespace Talabat.DAL.Data
             //- open Package Manager Console 
             //- Default project: DAL
             //- add migrtion in "Talabat.DAL" by typing "Add-Migration  initialCreate -o Data/Migrations"
+            //  , "-o Data/Migration": means that th output will be in Data folder
 
         }
     }

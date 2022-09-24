@@ -25,9 +25,9 @@ namespace Talbat.API.Controllers
 
 
         [HttpGet]
-        //3- [HttpGet]: means that we have made an get request
-        //4- if we make a GET request the https://localhost:5001/WeatherForecast will search the action/endpoint
-        //   which have this Verb(GET) 
+        //3- [HttpGet]: means that we have made GET request
+        //4- if we make a GET request the https://localhost:5001/WeatherForecast/GET will search the action/endpoint
+        //   which have this Verb(GET) and excute it.
         // - this endpoint GeT(){} does not be appear in the request
 
         public IEnumerable<WeatherForecast> Get()

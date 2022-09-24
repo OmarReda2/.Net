@@ -16,12 +16,12 @@ namespace Talabat.DAL.Data.Config
         // - 10.2 adding properties
         public void Configure(EntityTypeBuilder<Product> builder)
         {
-            //builder.Property(P => P.id).IsRequired();  // - we dont need it the id as it is the primary key() "By Convention"
+            //builder.Property(P => P.id).IsRequired();  // - we dont need it the id  is the primary key "By Convention"
             builder.Property(P => P.Descrption).IsRequired();
             builder.Property(P => P.Price).HasColumnType("decimal(18,2)");
             builder.Property(P => P.PictureUrl).IsRequired();
 
-            // - WeakReference would notuse these property is it well be defined by convention
+            // - WeakReference would not use these property as it well be defined by convention
             //builder.HasOne(P => P.ProductBrand).WithMany().
             //    HasForeignKey(P => P.ProductBrandId);
             //builder.HasOne(P => P.ProductType).WithMany().

@@ -36,13 +36,15 @@ namespace Talbat.API
             });
 
             // 6. comming from Talabat.DAL/Data/StoreCintext.cs
-            // 6.1 AddDbContext<StoreContext> (these step to allow to create object from StoreContext)
+            // 6.1 AddDbContext<StoreContext> (these step to allow to create object from StoreContext
+            //     that has in its constructor an injecatable DI object)
             // if we dont add the references the AddDbContext<>() would not appear
             services.AddDbContext<StoreContext>(options =>
             {
                 //6.2 Add connection string in appsetting.json
                 //6.3 got to appsetting.json ...
                 // ... 6.4 adding ConnectionString(DefaultConnection) in startup by Configuration prop
+                // go back to StoreContext
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
         }
