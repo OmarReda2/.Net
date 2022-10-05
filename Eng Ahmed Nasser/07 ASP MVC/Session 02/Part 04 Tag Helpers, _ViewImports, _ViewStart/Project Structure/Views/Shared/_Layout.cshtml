@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+    <title>Index</title>
+</head>
+
+<body>
+    @*Start Header*@
+    <header class="mt-4">
+        <center>
+            @*Html tag*@
+            @*<a href="/Home/Index" class="btn btn-primary">Home</a>*@
+
+            @*Html helper (in Old .Net Core)*@
+            @* @Html.ActionLink("Home", "Index", "Home", null, new {@class="btn btn-primary"})
+            @Html.ActionLink("Home", "Index", "Home", new{id = 5}, new {@class="btn btn-primary"})*@
+
+            @*Tag Helper*@
+            @*<a asp-action="Index" asp-controller="Home" asp-route-id="2" class="btn btn-primary">Home</a>*@
+            <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Home</a>
+            <a asp-action="AboutUs" asp-controller="Home" class="btn btn-light">AboutUs</a>
+            <a asp-action="Privacy" asp-controller="Home" class="btn btn-success">Privacy</a>
+            <a asp-action="ContactUs" asp-controller="Home" class="btn btn-warning">ContactUs</a>
+            <a asp-action="Login" asp-controller="Account" class="btn btn-danger">Login</a>
+            <a asp-action="Register" asp-controller="Account" class="btn btn-info">Register</a>
+        </center>
+    </header>
+    @*End Header*@
+
+
+
+    @*Start body*@
+    <div>
+        @RenderBody()
+    </div>
+    @*End body*@
+
+
+
+
+    @*Start footer*@
+    <footer>
+        <center>
+            <p>Copy Rights &copy; @DateTime.Now.Year</p>
+        </center>
+    </footer>
+    @*End footer*@
+</body>
+</html>
