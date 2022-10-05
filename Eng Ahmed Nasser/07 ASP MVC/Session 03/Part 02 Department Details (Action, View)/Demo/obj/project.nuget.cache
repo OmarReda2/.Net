@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qd0+YcGYD+3PGhWTQL+vmQItGkGHNPkSyomgFVjzg4JVl0NBiQ3Sl7wuaZ+hUJuz3+nJh+o+fJMkSJNtguC+OQ==",
+  "dgSpecHash": "GusOrr+cahtgaQL1H5xZudJBMe/RNH5q+VQoNJsgvxMJy/KHrqmR4wS4J0J9AibERaqT+O2TUSnr0VS2DsKtIg==",
   "success": true,
-  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo\\Demo.csproj",
+  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 03\\Part 02 Department Details (Action, View)\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

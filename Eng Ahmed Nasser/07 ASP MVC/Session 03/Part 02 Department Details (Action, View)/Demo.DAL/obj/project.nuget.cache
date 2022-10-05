@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UHIoTATcrMfqr1eP+ta+SH1rZd13AoxbfsdtcmAMyNhlOIlrysQ9TDYKdrvdaLxc6sx0CRAg3QKJyJV+FBtdEw==",
+  "dgSpecHash": "mrhhcK1vkHW7GGpUaS/HhD9cQ6oQbBZ8SZZ6yVvDo+L+I61fxSlSGb9OdK/onYXXzjkrrWIGR779Y40mTER/SA==",
   "success": true,
-  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo.DAL\\Demo.DAL.csproj",
+  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 03\\Part 02 Department Details (Action, View)\\Demo.DAL\\Demo.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -5706,11 +5706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo.DAL\\Demo.DAL.csproj",
+      "projectUniqueName": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 03\\Part 02 Department Details (Action, View)\\Demo.DAL\\Demo.DAL.csproj",
       "projectName": "Demo.DAL",
-      "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo.DAL\\Demo.DAL.csproj",
+      "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 03\\Part 02 Department Details (Action, View)\\Demo.DAL\\Demo.DAL.csproj",
       "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo.DAL\\obj\\",
+      "outputPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 03\\Part 02 Department Details (Action, View)\\Demo.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
