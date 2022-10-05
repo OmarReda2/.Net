@@ -1,0 +1,44 @@
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\bin\Debug\net5.0\appsettings.Development.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\bin\Debug\net5.0\appsettings.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\bin\Debug\net5.0\Project Structure.exe
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\bin\Debug\net5.0\Project Structure.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\bin\Debug\net5.0\Project Structure.runtimeconfig.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\bin\Debug\net5.0\Project Structure.runtimeconfig.dev.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\bin\Debug\net5.0\Project Structure.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\bin\Debug\net5.0\Project Structure.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\scopedcss\bundle\Project Structure.styles.css
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\staticwebassets\Project Structure.StaticWebAssets.Manifest.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.RazorTargetAssemblyInfo.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\refint\Project Structure.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\Project Structure.genruntimeconfig.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 01\Day 01\Project Structure\obj\Debug\net5.0\ref\Project Structure.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\bin\Debug\net5.0\appsettings.Development.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\bin\Debug\net5.0\appsettings.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\bin\Debug\net5.0\Project Structure.exe
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\bin\Debug\net5.0\Project Structure.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\bin\Debug\net5.0\Project Structure.runtimeconfig.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\bin\Debug\net5.0\Project Structure.runtimeconfig.dev.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\bin\Debug\net5.0\Project Structure.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\bin\Debug\net5.0\Project Structure.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\scopedcss\bundle\Project Structure.styles.css
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\staticwebassets\Project Structure.StaticWebAssets.Manifest.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.RazorTargetAssemblyInfo.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\refint\Project Structure.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\Project Structure.genruntimeconfig.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Return Type of Action, Model Binding\Project Structure\obj\Debug\net5.0\ref\Project Structure.dll
