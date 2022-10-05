@@ -17,7 +17,15 @@ namespace Demo.Controllers
         {
             return View(departmentRepository.GetAll()); 
         }
-
+        public IActionResult Details(int? id)
+        {
+            if (id == null)
+                return NotFound();
+            var Department = departmentRepository.Get(id);
+            if (Department == null)
+                return NotFound();
+            return View(Department);
+        }
         public IActionResult Create()
         {
             return View();
