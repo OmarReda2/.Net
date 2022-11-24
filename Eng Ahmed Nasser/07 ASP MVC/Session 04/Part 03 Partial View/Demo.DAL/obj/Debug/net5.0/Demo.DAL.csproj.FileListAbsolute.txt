@@ -1,0 +1,108 @@
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
