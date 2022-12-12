@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj": {}
+    "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj": {}
   },
   "projects": {
-    "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj": {
+    "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj",
+        "projectUniqueName": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj",
         "projectName": "Talbat.API",
-        "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj",
+        "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj",
         "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\obj\\",
+        "outputPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 01 Project Structure and Postman\\Talbat.G03.Solution\\Talbat.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
