@@ -7289,11 +7289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo\\Demo.csproj",
+      "projectUniqueName": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo\\Demo.csproj",
+      "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo\\obj\\",
+      "outputPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7310,8 +7310,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo.BLL\\Demo.BLL.csproj": {
-              "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo.BLL\\Demo.BLL.csproj"
+            "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo.BLL\\Demo.BLL.csproj": {
+              "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 09 Add Migrations, Create Department (Action, View)\\Demo.BLL\\Demo.BLL.csproj"
             }
           }
         }

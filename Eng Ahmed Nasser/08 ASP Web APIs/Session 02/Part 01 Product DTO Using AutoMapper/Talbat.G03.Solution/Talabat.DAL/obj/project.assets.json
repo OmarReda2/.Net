@@ -5706,11 +5706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 02\\Part 01 Product DTO Using AutoMapper\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj",
+      "projectUniqueName": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 02\\Part 01 Product DTO Using AutoMapper\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj",
       "projectName": "Talabat.DAL",
-      "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 02\\Part 01 Product DTO Using AutoMapper\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj",
+      "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 02\\Part 01 Product DTO Using AutoMapper\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj",
       "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 02\\Part 01 Product DTO Using AutoMapper\\Talbat.G03.Solution\\Talabat.DAL\\obj\\",
+      "outputPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 02\\Part 01 Product DTO Using AutoMapper\\Talbat.G03.Solution\\Talabat.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZKP7m+uJSz8usMZ9jT7FMo0Oo6iZlBl6r9fQYaME7B+CcRYIRGb0OdTQDgBkcABiRJut8ZJmxrTND8WFsY6qpg==",
+  "dgSpecHash": "7cD7OQJej3lTwY7NAkkqITExMn2HCS3qn7mQ+pnew5fckY4ffNAIPqHWpMm7UlaX5om5gXzw4M12Y51mABZcog==",
   "success": true,
-  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET temp\\Part 08 Presentation Layer\\Demo\\Demo.csproj",
+  "projectFilePath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 08 Presentation Layer\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarr\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

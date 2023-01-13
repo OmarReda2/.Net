@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uaZBbk1gP6gcBFi3/NRAkfp2zPH7wdlfp3UF1mJ+BJNYwT8xHZDFznEmmCLuf20s6EOL8VlHDOj3s5t8ZElynA==",
+  "dgSpecHash": "IO1pLj87Ii1RaExDQCLdblFTgNrJijH4p7v5ltZTTyfjw4IQWI3tQjua1gaExVyfAeu77Az+1+ypxC8CRl4XTQ==",
   "success": true,
-  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 02\\Part 02 Product Picture Url Resolver\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj",
+  "projectFilePath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 02\\Part 02 Product Picture Url Resolver\\Talbat.G03.Solution\\Talbat.API\\Talbat.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarr\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

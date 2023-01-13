@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj": {}
+    "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj": {}
   },
   "projects": {
-    "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj": {
+    "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj",
+        "projectUniqueName": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj",
         "projectName": "Talabat.BLL",
-        "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj",
+        "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\Talabat.BLL.csproj",
         "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\obj\\",
+        "outputPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj": {
-                "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj"
+              "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj": {
+                "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj": {
+    "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj",
+        "projectUniqueName": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj",
         "projectName": "Talabat.DAL",
-        "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj",
+        "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\Talabat.DAL.csproj",
         "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\obj\\",
+        "outputPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\08 ASP Web APIs\\Session 01\\Part 07 Employee Example - Draft\\Talbat.G03.Solution\\Talabat.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",

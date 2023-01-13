@@ -5724,11 +5724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET temp\\Part 08 Presentation Layer\\Demo.BLL\\Demo.BLL.csproj",
+      "projectUniqueName": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 08 Presentation Layer\\Demo.BLL\\Demo.BLL.csproj",
       "projectName": "Demo.BLL",
-      "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET temp\\Part 08 Presentation Layer\\Demo.BLL\\Demo.BLL.csproj",
+      "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 08 Presentation Layer\\Demo.BLL\\Demo.BLL.csproj",
       "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET temp\\Part 08 Presentation Layer\\Demo.BLL\\obj\\",
+      "outputPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 08 Presentation Layer\\Demo.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5745,8 +5745,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET temp\\Part 08 Presentation Layer\\Demo.DAL\\Demo.DAL.csproj": {
-              "projectPath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET temp\\Part 08 Presentation Layer\\Demo.DAL\\Demo.DAL.csproj"
+            "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 08 Presentation Layer\\Demo.DAL\\Demo.DAL.csproj": {
+              "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 08 Presentation Layer\\Demo.DAL\\Demo.DAL.csproj"
             }
           }
         }

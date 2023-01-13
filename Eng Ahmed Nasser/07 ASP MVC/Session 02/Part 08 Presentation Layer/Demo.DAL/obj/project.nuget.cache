@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CNbjOhFlYLhYPjfNuD1RLJ9aWhF1GXRN1hGU8BNy2cyRMRYmibFijivIClxLBJkBQX9GDJB1Zm2Wc+VHTw+3Tw==",
+  "dgSpecHash": "YTxDkgs4UwNi6TYHAPIRrEjwyJhT+RZdQvWKgkMbJTiiQodUzFMFL6N3Y2jde1Fy3vEAG4gQ9Ba1wiYgAwbbNA==",
   "success": true,
-  "projectFilePath": "E:\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET temp\\Part 08 Presentation Layer\\Demo.DAL\\Demo.DAL.csproj",
+  "projectFilePath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET Core\\Eng Ahmed Nasser\\07 ASP MVC\\Session 02\\Part 08 Presentation Layer\\Demo.DAL\\Demo.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\omarr\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

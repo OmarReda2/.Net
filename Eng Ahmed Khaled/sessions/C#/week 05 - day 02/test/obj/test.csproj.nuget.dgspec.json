@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Omar\\web\\back-end\\session practice\\C#\\test\\test.csproj": {}
+    "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET (Route)\\Eng Ahmed Khaled\\sessions\\C#\\week 05 - day 02\\test\\test.csproj": {}
   },
   "projects": {
-    "E:\\Omar\\web\\back-end\\session practice\\C#\\test\\test.csproj": {
+    "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET (Route)\\Eng Ahmed Khaled\\sessions\\C#\\week 05 - day 02\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Omar\\web\\back-end\\session practice\\C#\\test\\test.csproj",
+        "projectUniqueName": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET (Route)\\Eng Ahmed Khaled\\sessions\\C#\\week 05 - day 02\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "E:\\Omar\\web\\back-end\\session practice\\C#\\test\\test.csproj",
+        "projectPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET (Route)\\Eng Ahmed Khaled\\sessions\\C#\\week 05 - day 02\\test\\test.csproj",
         "packagesPath": "C:\\Users\\omarr\\.nuget\\packages\\",
-        "outputPath": "E:\\Omar\\web\\back-end\\session practice\\C#\\test\\obj\\",
+        "outputPath": "E:\\omar\\Programming (Practice & Projects)\\Courses Practice\\ASP.NET (Route)\\Eng Ahmed Khaled\\sessions\\C#\\week 05 - day 02\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
