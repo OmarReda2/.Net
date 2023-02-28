@@ -1,0 +1,25 @@
+﻿@model Departement
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<a asp-action="Index" class="btn btn-dark">Back Tio List</a>
+<h1>Edit</h1>
+<br />
+<br />
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Name" class="col-form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <input type="submit" class="btn btn-primary btn-success" value="Edit"/>
+</form>
+
+@section Validation{
+    <partial name="_ValidationScriptsPartial"/>
+}
+

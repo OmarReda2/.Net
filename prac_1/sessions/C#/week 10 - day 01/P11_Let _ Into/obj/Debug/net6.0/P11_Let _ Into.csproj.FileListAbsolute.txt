@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\bin\Debug\net6.0\P11_Let _ Into.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\bin\Debug\net6.0\P11_Let _ Into.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\bin\Debug\net6.0\P11_Let _ Into.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\bin\Debug\net6.0\P11_Let _ Into.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\bin\Debug\net6.0\P11_Let _ Into.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\P11_Let _ Into.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\P11_Let _ Into.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\P11_Let _ Into.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\P11_Let _ Into.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\P11_Let _ Into.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\P11_Let _ Into.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\refint\P11_Let _ Into.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\P11_Let _ Into.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\P11_Let _ Into.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P11_Let _ Into\obj\Debug\net6.0\ref\P11_Let _ Into.dll

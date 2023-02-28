@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\bin\Debug\net6.0\P02_Generics.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\bin\Debug\net6.0\P02_Generics.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\bin\Debug\net6.0\P02_Generics.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\bin\Debug\net6.0\P02_Generics.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\bin\Debug\net6.0\P02_Generics.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\P02_Generics.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\P02_Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\P02_Generics.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\P02_Generics.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\P02_Generics.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\P02_Generics.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\refint\P02_Generics.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\P02_Generics.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\P02_Generics.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 08 - day 02\P02_Generics\obj\Debug\net6.0\ref\P02_Generics.dll

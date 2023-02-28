@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\bin\Debug\net6.0\P01_Delegate_Ex01.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\bin\Debug\net6.0\P01_Delegate_Ex01.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\bin\Debug\net6.0\P01_Delegate_Ex01.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\bin\Debug\net6.0\P01_Delegate_Ex01.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\bin\Debug\net6.0\P01_Delegate_Ex01.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\P01_Delegate_Ex01.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\P01_Delegate_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\P01_Delegate_Ex01.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\P01_Delegate_Ex01.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\P01_Delegate_Ex01.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\P01_Delegate_Ex01.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\refint\P01_Delegate_Ex01.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\P01_Delegate_Ex01.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\P01_Delegate_Ex01.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\assignments\C#\week 09 - day 01\P01_Delegate_Ex01\obj\Debug\net6.0\ref\P01_Delegate_Ex01.dll

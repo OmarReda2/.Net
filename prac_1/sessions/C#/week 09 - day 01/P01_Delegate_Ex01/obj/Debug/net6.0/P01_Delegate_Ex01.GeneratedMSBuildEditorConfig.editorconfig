@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = P01_Delegate_Ex01
+build_property.ProjectDir = E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 09 - day 01\P01_Delegate_Ex01\

@@ -1,0 +1,26 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Details";
+    var Departement = ViewData["Departement"];
+}
+
+<h1>Details</h1>
+<br />
+<br />
+
+<div class="container">
+    <dl class=row>
+        <dt class="col-3">@Html.DisplayNameFor(e => e.Name )</dt>
+        <dd class="col-3">@Html.DisplayFor(e => e.Name)</dd>
+        <dt class="col-3">@Html.DisplayNameFor(e => e.Address )</dt>
+        <dd class="col-3">@Html.DisplayFor(e => e.Address)</dd>
+        <dt class="col-3">@Html.DisplayNameFor(e => e.Salary )</dt>
+        <dd class="col-3">@Html.DisplayFor(e => e.Salary)</dd>
+        <dt class="col-3">Department</dt>
+        <dd class="col-3">@Departement</dd>
+    </dl>
+
+    <div>
+        <a asp-action="Index">Back To List</a>
+    </div>
+</div>

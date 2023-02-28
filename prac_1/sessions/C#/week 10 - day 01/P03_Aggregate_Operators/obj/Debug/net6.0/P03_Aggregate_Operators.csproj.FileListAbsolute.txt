@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\bin\Debug\net6.0\P03_Aggregate_Operators.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\bin\Debug\net6.0\P03_Aggregate_Operators.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\bin\Debug\net6.0\P03_Aggregate_Operators.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\bin\Debug\net6.0\P03_Aggregate_Operators.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\bin\Debug\net6.0\P03_Aggregate_Operators.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\P03_Aggregate_Operators.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\P03_Aggregate_Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\P03_Aggregate_Operators.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\P03_Aggregate_Operators.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\P03_Aggregate_Operators.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\P03_Aggregate_Operators.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\refint\P03_Aggregate_Operators.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\P03_Aggregate_Operators.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\P03_Aggregate_Operators.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P03_Aggregate_Operators\obj\Debug\net6.0\ref\P03_Aggregate_Operators.dll

@@ -1,0 +1,285 @@
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Presentation Layer\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Add Migrations, Create Department (Action, View)\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 03 Department Edit (Action, View)\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 04 Department Delete (Action, View)\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 05 DAL - Employee\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 07 Employee Controller\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\Programming (Practice & Projects)\Courses Practice\ASP.NET Core\Eng Ahmed Nasser\07 ASP MVC\Session 03\Part 08 Employee - Index, Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 and 09 Employee - Index,Edit, Delete  Create Views and Client-Side Validation\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 03 Partial View\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 04 Employee Department Relationship\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 05 AddSingletone Vs AddScoped vs AddTransient\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 07 Search\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 08 Unit Of Work\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 09 Refactor Code ToBe Asynchronous - Copy\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 01 Load Navigational Property - Department\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 02 Documents Uploder\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 5 Microsoft Identity\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET temp\Part 06 Account Controller - Sign Up\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\omar\Programming (Practice & Projects)\Courses Practice\ASP.NET (Route)\Eng Ahmed Nasser\07 ASP MVC\Session 05\Part 07 Account Controller - Sign In, Sign Out\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll

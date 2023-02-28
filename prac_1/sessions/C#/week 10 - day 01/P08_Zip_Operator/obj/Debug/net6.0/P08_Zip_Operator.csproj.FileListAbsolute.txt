@@ -1,0 +1,15 @@
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\bin\Debug\net6.0\P08_Zip_Operator.exe
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\bin\Debug\net6.0\P08_Zip_Operator.deps.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\bin\Debug\net6.0\P08_Zip_Operator.runtimeconfig.json
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\bin\Debug\net6.0\P08_Zip_Operator.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\bin\Debug\net6.0\P08_Zip_Operator.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\P08_Zip_Operator.csproj.AssemblyReference.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\P08_Zip_Operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\P08_Zip_Operator.AssemblyInfoInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\P08_Zip_Operator.AssemblyInfo.cs
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\P08_Zip_Operator.csproj.CoreCompileInputs.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\P08_Zip_Operator.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\refint\P08_Zip_Operator.dll
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\P08_Zip_Operator.pdb
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\P08_Zip_Operator.genruntimeconfig.cache
+E:\Omar\Courses\Web\ASP.Net Backend\Practice\sessions\C#\week 10 - day 01\P08_Zip_Operator\obj\Debug\net6.0\ref\P08_Zip_Operator.dll

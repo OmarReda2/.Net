@@ -1,8 +1,0 @@
-E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 06 - day 02\w6 - s2 - p7\bin\Debug\w6 - s2 - p7.exe.config
-E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 06 - day 02\w6 - s2 - p7\bin\Debug\w6 - s2 - p7.exe
-E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 06 - day 02\w6 - s2 - p7\bin\Debug\w6 - s2 - p7.pdb
-E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 06 - day 02\w6 - s2 - p7\obj\Debug\w6 - s2 - p7.csproj.AssemblyReference.cache
-E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 06 - day 02\w6 - s2 - p7\obj\Debug\w6 - s2 - p7.csproj.SuggestedBindingRedirects.cache
-E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 06 - day 02\w6 - s2 - p7\obj\Debug\w6 - s2 - p7.csproj.CoreCompileInputs.cache
-E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 06 - day 02\w6 - s2 - p7\obj\Debug\w6 - s2 - p7.exe
-E:\Omar\Courses\web\ASP.Net Backend\practice\sessions\C#\week 06 - day 02\w6 - s2 - p7\obj\Debug\w6 - s2 - p7.pdb

@@ -1,0 +1,259 @@
+﻿++Solution 'Demo' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Demo.sln
+++Demo.BLL
+i:{00000000-0000-0000-0000-000000000000}:Demo.BLL
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\bin\debug\net5.0\demo.bll.dll
+++Dependencies
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:>500
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:>501
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:>824
+++Interfaces
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\interfaces\
+++IDepartmentRepository.cs
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\interfaces\idepartmentrepository.cs
+++IEmployeeRepository.cs
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\interfaces\iemployeerepository.cs
+++IGenericRepository.cs
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\interfaces\igenericrepository.cs
+++IUnitOfWork.cs
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\interfaces\iunitofwork.cs
+++Repositories
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\repositories\
+++Analyzers
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:analyzers
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:analyzers
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:analyzers
+++Frameworks
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:frameworks
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:frameworks
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:frameworks
+++Projects
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:projects
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:projects
+++DepartmentRepository.cs
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\repositories\departmentrepository.cs
+++EmployeeRepository.cs
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\repositories\employeerepository.cs
+++GenericRepository.cs
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\repositories\genericrepository.cs
+++UnitOfWork.cs
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\repositories\unitofwork.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:c:\users\omarr\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:c:\users\omarr\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:c:\users\omarr\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.bll\microsoft.netcore.app
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\microsoft.netcore.app
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\microsoft.netcore.app
+++Demo.DAL
+i:{4cba4c4c-d89f-4671-9213-d267e5441f80}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\bin\debug\net5.0\demo.dal.dll
+i:{00000000-0000-0000-0000-000000000000}:Demo.DAL
+++Context
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\context\
+++Entities
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\entities\
+++Migrations
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\migrations\
+++Packages
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:packages
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:packages
+++AppDbContext.cs
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\context\appdbcontext.cs
+++Department.cs
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\entities\department.cs
+++Employee.cs
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\entities\employee.cs
+++20220702192422_init.cs
+++AppDbContextModelSnapshot.cs
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\migrations\appdbcontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.17)
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:>860
+++Microsoft.EntityFrameworkCore.Tools (5.0.17)
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:>861
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:>841
+++20220702192422_init.Designer.cs
+++Demo.PL
+i:{00000000-0000-0000-0000-000000000000}:Demo.PL
+++Connected Services 
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:>825
+++Properties
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\properties\
+++wwwroot
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\
+++Controllers
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\controllers\
+++Mapper
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\mapper\
+++Models
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\models\
+++Views
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\
+++appsettings.Development.json
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\appsettings.development.json
+++appsettings.json
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\appsettings.json
+++Program.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\program.cs
+++Startup.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\startup.cs
+++No service dependencies discovered
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:>826
+++launchSettings.json
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\properties\launchsettings.json
+++css
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\css\
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\js\
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\
+++favicon.ico
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\favicon.ico
+++EmployeeController.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\controllers\employeecontroller.cs
+++HomeController.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\controllers\homecontroller.cs
+++DepartmentProfile.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\mapper\departmentprofile.cs
+++EmployeeProfile.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\mapper\employeeprofile.cs
+++DepartmentViewModel.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\models\departmentviewmodel.cs
+++EmployeeViewModel.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\models\employeeviewmodel.cs
+++ErrorViewModel.cs
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\models\errorviewmodel.cs
+++Employee
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\employee\
+++Home
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\home\
+++Shared
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\shared\
+++_ViewImports.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\_viewstart.cshtml
+++Microsoft.AspNetCore.Analyzers
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:c:\users\omarr\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:c:\users\omarr\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\microsoft.aspnetcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:>840
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:>842
+++site.css
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\css\site.css
+++site.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\js\site.js
+++bootstrap
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\
+++jquery
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery\
+++jquery-validation
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation-unobtrusive\
+++Create.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\employee\create.cshtml
+++Index.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\employee\index.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\home\index.cshtml
+++Privacy.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\views\shared\error.cshtml
+++dist
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery\dist\
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery\license.txt
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++jquery.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.css
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.css
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{a99f53e9-b8a6-47eb-ab68-8acbbca748e5}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++20220710153500_init.cs
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\migrations\20220710153500_init.cs
+++20220710153500_init.Designer.cs
+i:{c6bb4c6c-84a0-4373-969c-02adbc4314b6}:e:\omar\courses\web\asp.net backend\eng ahmed khaled\asp.net core mvc\session 03\demo\demo.dal\migrations\20220710153500_init.designer.cs
